@@ -1,0 +1,1 @@
+<h1 class="text-primary display-1 m-auto">Welcome  <?=$_SESSION["username"];?></h1>

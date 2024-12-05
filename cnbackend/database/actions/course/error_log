@@ -1,0 +1,23 @@
+[17-May-2023 07:39:20 UTC] PHP Warning:  Undefined variable $_post in /home3/consultancynepal/public_html/cnbackend/database/actions/course/insert.php on line 31
+[17-May-2023 07:39:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/course/insert.php on line 31
+[17-May-2023 07:40:13 UTC] PHP Warning:  Undefined variable $_post in /home3/consultancynepal/public_html/cnbackend/database/actions/course/insert.php on line 31
+[17-May-2023 07:40:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/course/insert.php on line 31
+[17-May-2023 07:41:41 UTC] PHP Warning:  Undefined variable $_post in /home3/consultancynepal/public_html/cnbackend/database/actions/course/insert.php on line 31
+[17-May-2023 07:41:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/course/insert.php on line 31
+[17-May-2023 08:06:49 UTC] PHP Warning:  Undefined array key "img_url" in /home3/consultancynepal/public_html/cnbackend/database/actions/course/edit.php on line 9
+[17-May-2023 08:06:49 UTC] PHP Warning:  Undefined property: stdClass::$country_slug in /home3/consultancynepal/public_html/cnbackend/database/actions/course/edit.php on line 11
+[17-May-2023 08:07:03 UTC] PHP Warning:  Undefined array key "img_url" in /home3/consultancynepal/public_html/cnbackend/database/actions/course/edit.php on line 9
+[17-May-2023 08:07:03 UTC] PHP Warning:  Undefined property: stdClass::$country_slug in /home3/consultancynepal/public_html/cnbackend/database/actions/course/edit.php on line 11
+[17-May-2023 08:07:35 UTC] PHP Warning:  Undefined array key "img_url" in /home3/consultancynepal/public_html/cnbackend/database/actions/course/edit.php on line 9
+[17-May-2023 08:07:35 UTC] PHP Warning:  Undefined property: stdClass::$country_slug in /home3/consultancynepal/public_html/cnbackend/database/actions/course/edit.php on line 11
+[17-May-2023 08:07:43 UTC] PHP Warning:  Undefined array key "img_url" in /home3/consultancynepal/public_html/cnbackend/database/actions/course/edit.php on line 9
+[17-May-2023 08:07:43 UTC] PHP Warning:  Undefined property: stdClass::$country_slug in /home3/consultancynepal/public_html/cnbackend/database/actions/course/edit.php on line 11
+[17-May-2023 08:08:25 UTC] PHP Warning:  Undefined array key "img_url" in /home3/consultancynepal/public_html/cnbackend/database/actions/course/edit.php on line 9
+[17-May-2023 08:08:25 UTC] PHP Warning:  Undefined property: stdClass::$country_slug in /home3/consultancynepal/public_html/cnbackend/database/actions/course/edit.php on line 11
+[17-May-2023 08:09:23 UTC] PHP Warning:  unlink(../../../public/uploads/course/IMG-646486154bdd96.89601140.webp): No such file or directory in /home3/consultancynepal/public_html/cnbackend/database/actions/course/delete.php on line 12
+[17-May-2023 08:11:27 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/course/delete.php on line 12
+[17-May-2023 08:11:29 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/course/delete.php on line 12
+[17-May-2023 09:29:36 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/course/delete.php on line 12
+[17-May-2023 09:29:39 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/course/delete.php on line 12
+[22-May-2023 07:44:39 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/course/delete.php on line 12
+[22-May-2023 07:44:41 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/course/delete.php on line 12

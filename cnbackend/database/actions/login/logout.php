@@ -1,0 +1,1 @@
+<?php session_start();unset($_SESSION['username']);$_SESSION['message']="You Have Been Logged Out";header("location:https://www.consultancynepal.com/cnbackend/"); ?>

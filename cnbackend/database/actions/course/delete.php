@@ -1,0 +1,15 @@
+<?php require_once "../../database.php";
+require_once "../../tables.php";
+$db = Database::Instance();
+if (isset($_POST["did"])) {
+    $did = $_POST["did"];
+    $where = "id";
+    $value = [$did];
+    $info = $db->SelectByCriteria('course', "image", "id", $value);
+    $file = $info[0]->image;
+    $imgpath = "../../../public/";
+    if ($db->delete('course', $where, $value)) {
+        unlink($imgpath . $file);
+        echo "1";
+    }
+}

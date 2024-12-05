@@ -1,0 +1,221 @@
+[14-Mar-2023 07:43:25 UTC] PHP Warning:  require_once(../../database.php): Failed to open stream: No such file or directory in /home3/consultancynepal/public_html/consultancy-login/action/events/insert.php on line 3
+[14-Mar-2023 07:43:25 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../database.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home3/consultancynepal/public_html/consultancy-login/action/events/insert.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/consultancynepal/public_html/consultancy-login/action/events/insert.php on line 3
+[14-Mar-2023 07:44:18 UTC] PHP Warning:  require_once(../../database.php): Failed to open stream: No such file or directory in /home3/consultancynepal/public_html/consultancy-login/action/events/insert.php on line 3
+[14-Mar-2023 07:44:18 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../database.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home3/consultancynepal/public_html/consultancy-login/action/events/insert.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/consultancynepal/public_html/consultancy-login/action/events/insert.php on line 3
+[14-Mar-2023 07:44:21 UTC] PHP Warning:  require_once(../../database.php): Failed to open stream: No such file or directory in /home3/consultancynepal/public_html/consultancy-login/action/events/insert.php on line 3
+[14-Mar-2023 07:44:21 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../database.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home3/consultancynepal/public_html/consultancy-login/action/events/insert.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/consultancynepal/public_html/consultancy-login/action/events/insert.php on line 3
+[14-Mar-2023 07:45:14 UTC] PHP Warning:  require_once(../../database.php): Failed to open stream: No such file or directory in /home3/consultancynepal/public_html/consultancy-login/action/events/insert.php on line 3
+[14-Mar-2023 07:45:14 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../database.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home3/consultancynepal/public_html/consultancy-login/action/events/insert.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/consultancynepal/public_html/consultancy-login/action/events/insert.php on line 3
+[14-Mar-2023 07:45:39 UTC] PHP Warning:  require_once(../../database.php): Failed to open stream: No such file or directory in /home3/consultancynepal/public_html/consultancy-login/action/events/insert.php on line 3
+[14-Mar-2023 07:45:39 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../database.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home3/consultancynepal/public_html/consultancy-login/action/events/insert.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/consultancynepal/public_html/consultancy-login/action/events/insert.php on line 3
+[14-Mar-2023 07:45:45 UTC] PHP Warning:  require_once(../../database.php): Failed to open stream: No such file or directory in /home3/consultancynepal/public_html/consultancy-login/action/events/insert.php on line 3
+[14-Mar-2023 07:45:45 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../database.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home3/consultancynepal/public_html/consultancy-login/action/events/insert.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/consultancynepal/public_html/consultancy-login/action/events/insert.php on line 3
+[14-Mar-2023 07:45:53 UTC] PHP Warning:  require_once(../../database.php): Failed to open stream: No such file or directory in /home3/consultancynepal/public_html/consultancy-login/action/events/insert.php on line 3
+[14-Mar-2023 07:45:53 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../database.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home3/consultancynepal/public_html/consultancy-login/action/events/insert.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/consultancynepal/public_html/consultancy-login/action/events/insert.php on line 3
+[14-Mar-2023 07:47:11 UTC] PHP Warning:  require_once(../../database.php): Failed to open stream: No such file or directory in /home3/consultancynepal/public_html/consultancy-login/action/events/insert.php on line 3
+[14-Mar-2023 07:47:11 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../database.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home3/consultancynepal/public_html/consultancy-login/action/events/insert.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/consultancynepal/public_html/consultancy-login/action/events/insert.php on line 3
+[14-Mar-2023 09:51:36 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/consultancynepal/public_html/consultancy-login/action/events/edit.php on line 2
+[14-Mar-2023 09:51:36 UTC] PHP Warning:  require_once(../../database.php): Failed to open stream: No such file or directory in /home3/consultancynepal/public_html/consultancy-login/action/events/edit.php on line 6
+[14-Mar-2023 09:51:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../database.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home3/consultancynepal/public_html/consultancy-login/action/events/edit.php:6
+Stack trace:
+#0 {main}
+  thrown in /home3/consultancynepal/public_html/consultancy-login/action/events/edit.php on line 6
+[14-Mar-2023 09:52:57 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/consultancynepal/public_html/consultancy-login/action/events/edit.php on line 2
+[14-Mar-2023 09:52:57 UTC] PHP Warning:  require_once(../../database.php): Failed to open stream: No such file or directory in /home3/consultancynepal/public_html/consultancy-login/action/events/edit.php on line 6
+[14-Mar-2023 09:52:57 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../database.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home3/consultancynepal/public_html/consultancy-login/action/events/edit.php:6
+Stack trace:
+#0 {main}
+  thrown in /home3/consultancynepal/public_html/consultancy-login/action/events/edit.php on line 6
+[14-Mar-2023 09:53:42 UTC] PHP Warning:  Undefined variable $event_table in /home3/consultancynepal/public_html/consultancy-login/action/events/edit.php on line 12
+[14-Mar-2023 09:54:39 UTC] PHP Warning:  unlink(../../../cnbackend/public/): Is a directory in /home3/consultancynepal/public_html/consultancy-login/action/events/edit.php on line 72
+[16-Mar-2023 04:36:35 UTC] PHP Warning:  Undefined variable $event_table in /home3/consultancynepal/public_html/consultancy-login/action/events/delete.php on line 13
+[16-Mar-2023 04:36:35 UTC] PHP Fatal error:  Uncaught PDOException: Not valid criteria in /home3/consultancynepal/public_html/consultancy-login/database/database.php:1
+Stack trace:
+#0 /home3/consultancynepal/public_html/consultancy-login/action/events/delete.php(13): Database->Delete(NULL, 'id', Array)
+#1 {main}
+  thrown in /home3/consultancynepal/public_html/consultancy-login/database/database.php on line 1
+[16-Mar-2023 04:37:54 UTC] PHP Warning:  Undefined variable $event_table in /home3/consultancynepal/public_html/consultancy-login/action/events/delete.php on line 13
+[16-Mar-2023 04:37:54 UTC] PHP Fatal error:  Uncaught PDOException: Not valid criteria in /home3/consultancynepal/public_html/consultancy-login/database/database.php:1
+Stack trace:
+#0 /home3/consultancynepal/public_html/consultancy-login/action/events/delete.php(13): Database->Delete(NULL, 'id', Array)
+#1 {main}
+  thrown in /home3/consultancynepal/public_html/consultancy-login/database/database.php on line 1
+[16-Mar-2023 04:39:44 UTC] PHP Warning:  Undefined variable $event_table in /home3/consultancynepal/public_html/consultancy-login/action/events/delete.php on line 13
+[16-Mar-2023 04:39:44 UTC] PHP Fatal error:  Uncaught PDOException: Not valid criteria in /home3/consultancynepal/public_html/consultancy-login/database/database.php:1
+Stack trace:
+#0 /home3/consultancynepal/public_html/consultancy-login/action/events/delete.php(13): Database->Delete(NULL, 'id', Array)
+#1 {main}
+  thrown in /home3/consultancynepal/public_html/consultancy-login/database/database.php on line 1
+[16-Mar-2023 04:42:50 UTC] PHP Warning:  Undefined variable $event_table in /home3/consultancynepal/public_html/consultancy-login/action/events/delete.php on line 13
+[16-Mar-2023 04:42:50 UTC] PHP Fatal error:  Uncaught PDOException: Not valid criteria in /home3/consultancynepal/public_html/consultancy-login/database/database.php:1
+Stack trace:
+#0 /home3/consultancynepal/public_html/consultancy-login/action/events/delete.php(13): Database->Delete(NULL, 'id', Array)
+#1 {main}
+  thrown in /home3/consultancynepal/public_html/consultancy-login/database/database.php on line 1
+[16-Mar-2023 06:52:56 UTC] PHP Warning:  Undefined variable $event_table in /home3/consultancynepal/public_html/consultancy-login/action/events/delete.php on line 13
+[16-Mar-2023 06:52:56 UTC] PHP Fatal error:  Uncaught PDOException: Not valid criteria in /home3/consultancynepal/public_html/consultancy-login/database/database.php:1
+Stack trace:
+#0 /home3/consultancynepal/public_html/consultancy-login/action/events/delete.php(13): Database->Delete(NULL, 'id', Array)
+#1 {main}
+  thrown in /home3/consultancynepal/public_html/consultancy-login/database/database.php on line 1
+[16-Mar-2023 06:53:03 UTC] PHP Warning:  Undefined variable $event_table in /home3/consultancynepal/public_html/consultancy-login/action/events/delete.php on line 13
+[16-Mar-2023 06:53:03 UTC] PHP Fatal error:  Uncaught PDOException: Not valid criteria in /home3/consultancynepal/public_html/consultancy-login/database/database.php:1
+Stack trace:
+#0 /home3/consultancynepal/public_html/consultancy-login/action/events/delete.php(13): Database->Delete(NULL, 'id', Array)
+#1 {main}
+  thrown in /home3/consultancynepal/public_html/consultancy-login/database/database.php on line 1
+[16-Mar-2023 07:19:26 UTC] PHP Warning:  Undefined variable $event_table in /home3/consultancynepal/public_html/consultancy-login/action/events/delete.php on line 13
+[16-Mar-2023 07:19:26 UTC] PHP Fatal error:  Uncaught PDOException: Not valid criteria in /home3/consultancynepal/public_html/consultancy-login/database/database.php:1
+Stack trace:
+#0 /home3/consultancynepal/public_html/consultancy-login/action/events/delete.php(13): Database->Delete(NULL, 'id', Array)
+#1 {main}
+  thrown in /home3/consultancynepal/public_html/consultancy-login/database/database.php on line 1
+[16-Mar-2023 07:21:47 UTC] PHP Warning:  unlink(../../../cnbackend/public/): Is a directory in /home3/consultancynepal/public_html/consultancy-login/action/events/delete.php on line 14
+[16-Mar-2023 07:21:47 UTC] PHP Warning:  Undefined variable $slugs_table in /home3/consultancynepal/public_html/consultancy-login/action/events/delete.php on line 15
+[16-Mar-2023 07:21:47 UTC] PHP Fatal error:  Uncaught PDOException: Not valid criteria in /home3/consultancynepal/public_html/consultancy-login/database/database.php:1
+Stack trace:
+#0 /home3/consultancynepal/public_html/consultancy-login/action/events/delete.php(15): Database->Delete(NULL, 'slug', Array)
+#1 {main}
+  thrown in /home3/consultancynepal/public_html/consultancy-login/database/database.php on line 1
+[16-Mar-2023 07:24:28 UTC] PHP Warning:  unlink(../../../cnbackend/public/): Is a directory in /home3/consultancynepal/public_html/consultancy-login/action/events/delete.php on line 14
+[16-Mar-2023 07:24:28 UTC] PHP Warning:  Undefined variable $slugs_table in /home3/consultancynepal/public_html/consultancy-login/action/events/delete.php on line 15
+[16-Mar-2023 07:24:28 UTC] PHP Fatal error:  Uncaught PDOException: Not valid criteria in /home3/consultancynepal/public_html/consultancy-login/database/database.php:1
+Stack trace:
+#0 /home3/consultancynepal/public_html/consultancy-login/action/events/delete.php(15): Database->Delete(NULL, 'slug', Array)
+#1 {main}
+  thrown in /home3/consultancynepal/public_html/consultancy-login/database/database.php on line 1
+[19-Mar-2023 14:37:48 UTC] PHP Warning:  unlink(../../../cnbackend/public/): Is a directory in /home3/consultancynepal/public_html/consultancy-login/action/events/delete.php on line 14
+[19-Mar-2023 14:37:48 UTC] PHP Warning:  Undefined variable $slugs_table in /home3/consultancynepal/public_html/consultancy-login/action/events/delete.php on line 15
+[19-Mar-2023 14:37:48 UTC] PHP Fatal error:  Uncaught PDOException: Not valid criteria in /home3/consultancynepal/public_html/consultancy-login/database/database.php:1
+Stack trace:
+#0 /home3/consultancynepal/public_html/consultancy-login/action/events/delete.php(15): Database->Delete(NULL, 'slug', Array)
+#1 {main}
+  thrown in /home3/consultancynepal/public_html/consultancy-login/database/database.php on line 1
+[11-Apr-2023 06:41:51 UTC] PHP Warning:  unlink(../../../cnbackend/public/): Is a directory in /home3/consultancynepal/public_html/consultancy-login/action/events/delete.php on line 14
+[11-Apr-2023 06:41:51 UTC] PHP Warning:  Undefined variable $slugs_table in /home3/consultancynepal/public_html/consultancy-login/action/events/delete.php on line 15
+[11-Apr-2023 06:41:51 UTC] PHP Fatal error:  Uncaught PDOException: Not valid criteria in /home3/consultancynepal/public_html/consultancy-login/database/database.php:1
+Stack trace:
+#0 /home3/consultancynepal/public_html/consultancy-login/action/events/delete.php(15): Database->Delete(NULL, 'slug', Array)
+#1 {main}
+  thrown in /home3/consultancynepal/public_html/consultancy-login/database/database.php on line 1
+[11-Apr-2023 06:45:45 UTC] PHP Warning:  unlink(../../../cnbackend/public/): Is a directory in /home3/consultancynepal/public_html/consultancy-login/action/events/delete.php on line 14
+[11-Apr-2023 06:45:45 UTC] PHP Warning:  Undefined variable $slugs_table in /home3/consultancynepal/public_html/consultancy-login/action/events/delete.php on line 15
+[11-Apr-2023 06:45:45 UTC] PHP Fatal error:  Uncaught PDOException: Not valid criteria in /home3/consultancynepal/public_html/consultancy-login/database/database.php:1
+Stack trace:
+#0 /home3/consultancynepal/public_html/consultancy-login/action/events/delete.php(15): Database->Delete(NULL, 'slug', Array)
+#1 {main}
+  thrown in /home3/consultancynepal/public_html/consultancy-login/database/database.php on line 1
+[11-Apr-2023 06:46:50 UTC] PHP Warning:  unlink(../../../cnbackend/public/): Is a directory in /home3/consultancynepal/public_html/consultancy-login/action/events/delete.php on line 14
+[11-Apr-2023 06:46:50 UTC] PHP Warning:  Undefined variable $slugs_table in /home3/consultancynepal/public_html/consultancy-login/action/events/delete.php on line 15
+[11-Apr-2023 06:46:50 UTC] PHP Fatal error:  Uncaught PDOException: Not valid criteria in /home3/consultancynepal/public_html/consultancy-login/database/database.php:1
+Stack trace:
+#0 /home3/consultancynepal/public_html/consultancy-login/action/events/delete.php(15): Database->Delete(NULL, 'slug', Array)
+#1 {main}
+  thrown in /home3/consultancynepal/public_html/consultancy-login/database/database.php on line 1
+[11-Apr-2023 07:29:32 UTC] PHP Warning:  unlink(../../../cnbackend/public/): Is a directory in /home3/consultancynepal/public_html/consultancy-login/action/events/delete.php on line 14
+[11-Apr-2023 07:29:32 UTC] PHP Warning:  Undefined variable $slugs_table in /home3/consultancynepal/public_html/consultancy-login/action/events/delete.php on line 15
+[11-Apr-2023 07:29:32 UTC] PHP Fatal error:  Uncaught PDOException: Not valid criteria in /home3/consultancynepal/public_html/consultancy-login/database/database.php:1
+Stack trace:
+#0 /home3/consultancynepal/public_html/consultancy-login/action/events/delete.php(15): Database->Delete(NULL, 'slug', Array)
+#1 {main}
+  thrown in /home3/consultancynepal/public_html/consultancy-login/database/database.php on line 1
+[11-Apr-2023 07:29:39 UTC] PHP Warning:  unlink(../../../cnbackend/public/): Is a directory in /home3/consultancynepal/public_html/consultancy-login/action/events/delete.php on line 14
+[11-Apr-2023 07:29:39 UTC] PHP Warning:  Undefined variable $slugs_table in /home3/consultancynepal/public_html/consultancy-login/action/events/delete.php on line 15
+[11-Apr-2023 07:29:39 UTC] PHP Fatal error:  Uncaught PDOException: Not valid criteria in /home3/consultancynepal/public_html/consultancy-login/database/database.php:1
+Stack trace:
+#0 /home3/consultancynepal/public_html/consultancy-login/action/events/delete.php(15): Database->Delete(NULL, 'slug', Array)
+#1 {main}
+  thrown in /home3/consultancynepal/public_html/consultancy-login/database/database.php on line 1
+[11-Apr-2023 07:40:42 UTC] PHP Warning:  unlink(../../../cnbackend/public/): Is a directory in /home3/consultancynepal/public_html/consultancy-login/action/events/delete.php on line 14
+[11-Apr-2023 07:40:42 UTC] PHP Warning:  Undefined variable $slugs_table in /home3/consultancynepal/public_html/consultancy-login/action/events/delete.php on line 15
+[11-Apr-2023 07:40:42 UTC] PHP Fatal error:  Uncaught PDOException: Not valid criteria in /home3/consultancynepal/public_html/consultancy-login/database/database.php:1
+Stack trace:
+#0 /home3/consultancynepal/public_html/consultancy-login/action/events/delete.php(15): Database->Delete(NULL, 'slug', Array)
+#1 {main}
+  thrown in /home3/consultancynepal/public_html/consultancy-login/database/database.php on line 1
+[11-Apr-2023 08:16:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/consultancynepal/public_html/consultancy-login/database/database.php:1) in /home3/consultancynepal/public_html/consultancy-login/action/events/edit.php on line 15
+[12-Apr-2023 07:14:37 UTC] PHP Warning:  unlink(../../../cnbackend/public/): Is a directory in /home3/consultancynepal/public_html/consultancy-login/action/events/delete.php on line 14
+[12-Apr-2023 07:14:37 UTC] PHP Warning:  Undefined variable $slugs_table in /home3/consultancynepal/public_html/consultancy-login/action/events/delete.php on line 15
+[12-Apr-2023 07:14:37 UTC] PHP Fatal error:  Uncaught PDOException: Not valid criteria in /home3/consultancynepal/public_html/consultancy-login/database/database.php:1
+Stack trace:
+#0 /home3/consultancynepal/public_html/consultancy-login/action/events/delete.php(15): Database->Delete(NULL, 'slug', Array)
+#1 {main}
+  thrown in /home3/consultancynepal/public_html/consultancy-login/database/database.php on line 1
+[16-Apr-2023 06:39:17 UTC] PHP Warning:  unlink(../../../cnbackend/public/): Is a directory in /home3/consultancynepal/public_html/consultancy-login/action/events/delete.php on line 14
+[16-Apr-2023 06:39:17 UTC] PHP Warning:  Undefined variable $slugs_table in /home3/consultancynepal/public_html/consultancy-login/action/events/delete.php on line 15
+[16-Apr-2023 06:39:17 UTC] PHP Fatal error:  Uncaught PDOException: Not valid criteria in /home3/consultancynepal/public_html/consultancy-login/database/database.php:1
+Stack trace:
+#0 /home3/consultancynepal/public_html/consultancy-login/action/events/delete.php(15): Database->Delete(NULL, 'slug', Array)
+#1 {main}
+  thrown in /home3/consultancynepal/public_html/consultancy-login/database/database.php on line 1
+[16-Apr-2023 06:58:41 UTC] PHP Warning:  unlink(../../../cnbackend/public/): Is a directory in /home3/consultancynepal/public_html/consultancy-login/action/events/delete.php on line 14
+[16-Apr-2023 06:58:41 UTC] PHP Warning:  Undefined variable $slugs_table in /home3/consultancynepal/public_html/consultancy-login/action/events/delete.php on line 15
+[16-Apr-2023 06:58:41 UTC] PHP Fatal error:  Uncaught PDOException: Not valid criteria in /home3/consultancynepal/public_html/consultancy-login/database/database.php:1
+Stack trace:
+#0 /home3/consultancynepal/public_html/consultancy-login/action/events/delete.php(15): Database->Delete(NULL, 'slug', Array)
+#1 {main}
+  thrown in /home3/consultancynepal/public_html/consultancy-login/database/database.php on line 1
+[16-Apr-2023 06:59:47 UTC] PHP Warning:  unlink(../../../cnbackend/public/): Is a directory in /home3/consultancynepal/public_html/consultancy-login/action/events/delete.php on line 14
+[16-Apr-2023 06:59:47 UTC] PHP Warning:  Undefined variable $slugs_table in /home3/consultancynepal/public_html/consultancy-login/action/events/delete.php on line 15
+[16-Apr-2023 06:59:47 UTC] PHP Fatal error:  Uncaught PDOException: Not valid criteria in /home3/consultancynepal/public_html/consultancy-login/database/database.php:1
+Stack trace:
+#0 /home3/consultancynepal/public_html/consultancy-login/action/events/delete.php(15): Database->Delete(NULL, 'slug', Array)
+#1 {main}
+  thrown in /home3/consultancynepal/public_html/consultancy-login/database/database.php on line 1
+[16-Apr-2023 07:06:04 UTC] PHP Warning:  unlink(../../../cnbackend/public/): Is a directory in /home3/consultancynepal/public_html/consultancy-login/action/events/delete.php on line 14
+[16-Apr-2023 07:06:04 UTC] PHP Warning:  Undefined variable $slugs_table in /home3/consultancynepal/public_html/consultancy-login/action/events/delete.php on line 15
+[16-Apr-2023 07:06:04 UTC] PHP Fatal error:  Uncaught PDOException: Not valid criteria in /home3/consultancynepal/public_html/consultancy-login/database/database.php:1
+Stack trace:
+#0 /home3/consultancynepal/public_html/consultancy-login/action/events/delete.php(15): Database->Delete(NULL, 'slug', Array)
+#1 {main}
+  thrown in /home3/consultancynepal/public_html/consultancy-login/database/database.php on line 1
+[16-Apr-2023 07:06:52 UTC] PHP Warning:  unlink(../../../cnbackend/public/): Is a directory in /home3/consultancynepal/public_html/consultancy-login/action/events/delete.php on line 14
+[16-Apr-2023 07:06:52 UTC] PHP Warning:  Undefined variable $slugs_table in /home3/consultancynepal/public_html/consultancy-login/action/events/delete.php on line 15
+[16-Apr-2023 07:06:52 UTC] PHP Fatal error:  Uncaught PDOException: Not valid criteria in /home3/consultancynepal/public_html/consultancy-login/database/database.php:1
+Stack trace:
+#0 /home3/consultancynepal/public_html/consultancy-login/action/events/delete.php(15): Database->Delete(NULL, 'slug', Array)
+#1 {main}
+  thrown in /home3/consultancynepal/public_html/consultancy-login/database/database.php on line 1
+[16-Apr-2023 07:10:03 UTC] PHP Warning:  unlink(../../../cnbackend/public/): Is a directory in /home3/consultancynepal/public_html/consultancy-login/action/events/delete.php on line 14
+[16-Apr-2023 07:10:03 UTC] PHP Warning:  Undefined variable $slugs_table in /home3/consultancynepal/public_html/consultancy-login/action/events/delete.php on line 15
+[16-Apr-2023 07:10:03 UTC] PHP Fatal error:  Uncaught PDOException: Not valid criteria in /home3/consultancynepal/public_html/consultancy-login/database/database.php:1
+Stack trace:
+#0 /home3/consultancynepal/public_html/consultancy-login/action/events/delete.php(15): Database->Delete(NULL, 'slug', Array)
+#1 {main}
+  thrown in /home3/consultancynepal/public_html/consultancy-login/database/database.php on line 1
+[16-Apr-2023 07:57:57 UTC] PHP Warning:  unlink(../../../cnbackend/public/): Is a directory in /home3/consultancynepal/public_html/consultancy-login/action/events/delete.php on line 14
+[16-Apr-2023 07:57:57 UTC] PHP Warning:  Undefined variable $slugs_table in /home3/consultancynepal/public_html/consultancy-login/action/events/delete.php on line 15
+[16-Apr-2023 07:57:57 UTC] PHP Fatal error:  Uncaught PDOException: Not valid criteria in /home3/consultancynepal/public_html/consultancy-login/database/database.php:1
+Stack trace:
+#0 /home3/consultancynepal/public_html/consultancy-login/action/events/delete.php(15): Database->Delete(NULL, 'slug', Array)
+#1 {main}
+  thrown in /home3/consultancynepal/public_html/consultancy-login/database/database.php on line 1
+[16-Apr-2023 07:59:56 UTC] PHP Warning:  unlink(../../../cnbackend/public/): Is a directory in /home3/consultancynepal/public_html/consultancy-login/action/events/delete.php on line 14
+[16-Apr-2023 08:00:03 UTC] PHP Warning:  unlink(../../../cnbackend/public/): Is a directory in /home3/consultancynepal/public_html/consultancy-login/action/events/delete.php on line 14
+[16-Apr-2023 08:00:07 UTC] PHP Warning:  unlink(../../../cnbackend/public/): Is a directory in /home3/consultancynepal/public_html/consultancy-login/action/events/delete.php on line 14
+[16-Apr-2023 08:00:10 UTC] PHP Warning:  unlink(../../../cnbackend/public/): Is a directory in /home3/consultancynepal/public_html/consultancy-login/action/events/delete.php on line 14
+[16-Apr-2023 08:01:29 UTC] PHP Warning:  unlink(../../../cnbackend/public/): Is a directory in /home3/consultancynepal/public_html/consultancy-login/action/events/delete.php on line 14

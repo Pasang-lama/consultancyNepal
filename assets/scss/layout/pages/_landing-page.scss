@@ -1,0 +1,485 @@
+.tabs {
+  .nav {
+    .nav-item {
+      .nav-link {
+        background: #e7e7e7;
+        color: $general-color;
+      }
+      .active {
+        background: white;
+        border-bottom: 3px solid #213343;
+      }
+    }
+  }
+  .tab-content {
+    background: white;
+    border-radius: 0 0 10px 10px;
+    @media (max-width: 992px) {
+      background-color: transparent !important;
+      .tab-pane {
+        display: block;
+        opacity: 1 !important;
+      }
+      .accordion-button {
+        background-color: white !important;
+        font-size: 12px !important;
+        padding: 8px;
+        &::after{
+          height: 17px;
+        }
+        &:not(.collapsed) {
+          background-color: #dce9fb !important;
+        }
+      }
+    }
+  }
+}
+.study-abroad {
+  .Study-abroad-wrapper {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    @media (max-width: 768px) {
+      grid-template-columns: repeat(3, 1fr);
+      .responsive-button {
+        display: block !important;
+        background-color: $primary-color;
+        a {
+          height: 100%;
+          width: 100%;
+          text-align: center;
+          border-radius: 0px;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          font-size: 12px;
+          font-weight: 600;
+          line-height: 16px;
+        }
+      }
+    }
+    .study-abroad-card {
+      position: relative;
+      overflow: hidden;
+      display: block;
+      border-right: 1px solid white;
+      border-bottom: 1px solid white;
+      &:last-child {
+        border-right: none;
+      }
+      figure {
+        height: 200px;
+        width: 100%;
+        @media (max-width: 992px) {
+          height: 150px;
+        }
+        @media (max-width: 480px) {
+          height: 100px;
+        }
+      }
+      &::before {
+        content: "";
+        position: absolute;
+        top: 0;
+        left: 0;
+        height: 100%;
+        width: 100%;
+        background: linear-gradient(
+          180deg,
+          rgba(0, 0, 0, 0) 0%,
+          #000000 97.92%
+        );
+        z-index: 1;
+      }
+      .study-abroad-destination-name {
+        position: absolute;
+        z-index: 2;
+        bottom: 20px;
+        left: 20px;
+        transition: all 0.5s linear;
+        .title {
+          font-weight: 600;
+          font-size: 18px !important;
+          line-height: 26px !important;
+          text-transform: capitalize;
+          color: white;
+          @media (max-width: 480px) {
+            font-size: 14px !important;
+            line-height: 18px !important;
+            margin-bottom: 0 !important;
+          }
+          &:hover {
+            color: $primary-color;
+          }
+        }
+      }
+      .abroad-info-link {
+        position: absolute;
+        bottom: -50%;
+        z-index: 2;
+        left: 20px;
+        transition: all 0.5s linear;
+        ul {
+          list-style: none;
+          margin-left: 10px;
+          li {
+            color: white;
+            &:hover {
+              color: $primary-color;
+            }
+            i {
+              font-size: 12px;
+            }
+          }
+        }
+      }
+      &:hover {
+        .abroad-info-link {
+          bottom: 20px;
+        }
+        .study-abroad-destination-name {
+          bottom: 45%;
+          @media (max-width: 1401px) {
+            bottom: 20px;
+          }
+        }
+      }
+      @media (max-width: 1401px) {
+        .abroad-info-link {
+          display: none;
+        }
+      }
+    }
+  }
+  .study-abroad-btn {
+    @media (max-width: 768px) {
+      display: none !important;
+    }
+  }
+}
+.popular-events-card {
+  position: relative;
+  border-radius: 5px;
+  overflow: hidden;
+  .apply {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    z-index: 2;
+    background-color: #0067eb;
+    padding: 2px 4px;
+    color: white;
+    border-radius: 5px;
+    font-size: 12px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+  }
+  figure {
+    border-radius: 5px;
+    position: relative;
+    margin: 0px !important;
+    height: 350px;
+    @media (max-width: 480px) {
+      height: 200px;
+    }
+    img {
+      height: 100%;
+      width: 100%;
+      object-fit: cover;
+      transition: all 0.5s linear;
+    }
+    &::before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 100%;
+      width: 100%;
+      border-radius: 10px;
+      background: linear-gradient(
+        0deg,
+        rgba(23, 24, 27, 0.46) 0%,
+        rgba(31, 32, 34, 0.46) 100%
+      );
+      z-index: 1;
+    }
+  }
+  .event-details {
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+    z-index: 2;
+    .event-tittle {
+      font-size: 24px;
+      font-weight: 800;
+      color: white;
+      margin-bottom: 0 !important;
+      padding-right: 20px;
+      @media (max-width: 480px) {
+        font-size: 18px;
+        font-weight: 700;
+        padding-right: 10px;
+      }
+    }
+    .date {
+      color: #d6d6d6;
+    }
+  }
+  &:hover {
+    figure {
+      img {
+        transform: scale(1.2) rotate(5deg);
+      }
+    }
+  }
+}
+.aside-event {
+  list-style: none;
+  li {
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid rgb(181, 181, 181);
+    &:last-child {
+      margin-bottom: 0;
+      padding-bottom: 0;
+      border-bottom: none;
+    }
+  }
+  .event-wrapper {
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+    gap: 20px;
+    .event-cover {
+      figure {
+        margin-bottom: 0 !important;
+        border-radius: 4px;
+        overflow: hidden;
+        height: 100%;
+      }
+      img {
+        height: 100%;
+        width: 100%;
+        object-fit: cover;
+      }
+    }
+  }
+  .apply-now-link {
+    color: $primary-color;
+    font-size: 12px;
+    display: block;
+    text-transform: uppercase;
+    font-weight: 600;
+    margin-top: 5px;
+  }
+  .event-tittle {
+    color: $general-color;
+    font-size: 16px;
+    line-height: 24px;
+    margin: 0px !important;
+    a {
+      @include line-clamp-2;
+    }
+    &:hover {
+      color: $primary-color;
+    }
+  }
+  .date {
+    color: gray;
+    font-size: 12px;
+    line-height: 18px;
+  }
+}
+.testimonlas-card {
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.15);
+  @include font-lato;
+  text-align: center;
+  background-color: white;
+  border-radius: 5px;
+  border-top: 5px solid $primary-color;
+  padding: 15px;
+  margin: 10px;
+  .reviewr-details {
+    @include flex-center;
+    gap: 10px;
+    .cover-img {
+      border: 1px solid #d5d5d5;
+      border-radius: 5px;
+      flex-shrink: 0;
+      padding: 5px;
+      height: 60px;
+      aspect-ratio: 1;
+      img {
+        object-fit: scale-down;
+      }
+    }
+    .details {
+      .reviewer {
+        color: $general-color;
+        font-size: 16px;
+        font-weight: 500;
+        line-height: 24px;
+        margin-bottom: 0px !important;
+        text-align: left;
+      }
+      .designation {
+        font-size: 12px;
+        color: gray;
+        text-align: left;
+      }
+    }
+  }
+
+  blockquote {
+    font-style: italic;
+    margin: 0 0 20px;
+    p {
+      font-size: 14px;
+    }
+  }
+}
+.business-partners {
+  figure {
+    height: 120px;
+    margin: 10px !important;
+    padding: 10px;
+    background-color: white;
+    border: 1px solid #d5d5d5;
+    border-radius: 5px;
+    @media(max-width:767px){
+      height: 100px;
+    }
+    @media(max-width:480px){
+      height: 80px;
+    }
+    img {
+      object-fit: scale-down;
+    }
+  }
+}
+.initial-popup {
+  @media (max-width: 767px) {
+    padding-right: 5px !important ;
+  }
+  .modal-dialog {
+    justify-content: center !important;
+    .modal-content {
+      width: max-content !important;
+      min-height: 100%;
+      background-color: transparent !important;
+      border: none !important;
+      .modal-header {
+        font-weight: 700;
+        font-size: 18px;
+        border-bottom: none !important;
+        .btn-close {
+          background: $primary-color;
+          color: white;
+          opacity: 1;
+          height: 15px;
+          width: 25px;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          border-radius: 3px;
+          background-image: none !important;
+        }
+      }
+      .modal-body {
+        width: fit-content !important;
+        padding: 0 !important;
+      }
+    }
+  }
+}
+.top-consultancy-video-card {
+  position: relative;
+  overflow: hidden;
+  figure {
+    height: 180px;
+    width: 100%;
+    border-radius: 5px;
+    @media (max-width: 991px) {
+      height: 150px;
+    }
+    @media (max-width: 480px) {
+      height: 120px;
+    }
+  }
+  .hover-content {
+    position: absolute;
+    bottom: -50%;
+    z-index: 2;
+    transition: all 0.5s linear;
+    background-color: rgba(0, 0, 0, 0.605);
+    width: 100%;
+    padding: 10px;
+    min-height: 130px;
+    @media (max-width: 991px) {
+      bottom: 0;
+    min-height: fit-content;
+
+    }
+    .title {
+      transition: all 0.5s linear;
+      font-weight: 600;
+      font-size: 14px !important;
+      text-transform: capitalize;
+      color: white;
+      margin-bottom: 40px;
+      @media (max-width: 991px) {
+        margin-bottom: 0px;
+        font-size: 13px !important;
+      }
+      @media (max-width: 480px) {
+        font-size: 10px !important;
+      }
+      &:hover {
+        color: $primary-color;
+      }
+    }
+    .contact-details {
+      @media (max-width: 991px) {
+        display: none;
+      }
+      li {
+        font-family: "Lato", sans-serif;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 24px;
+        color: white;
+        margin-bottom: 0;
+        line-height: 24px;
+        display: flex;
+        gap: 10px;
+        padding-bottom: 3px;
+        &:last-child {
+          padding-bottom: 0px;
+        }
+        span {
+          a {
+            &:hover {
+              color: $primary-color !important;
+            }
+          }
+        }
+        i {
+          line-height: 24px;
+          width: 15px;
+        }
+      }
+    }
+  }
+  &:hover {
+    .hover-content {
+      min-height: fit-content !important;
+      bottom: 0;
+      .title {
+        margin-bottom: 5px !important;
+        @media (max-width: 991px) {
+          margin-bottom: 0px;
+        }
+      }
+    }
+  }
+}
+

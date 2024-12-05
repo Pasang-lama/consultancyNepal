@@ -1,0 +1,6 @@
+/.htaccess
+/error_log
+/.env
+.env
+/cont_contents.php
+/database/Database.php

@@ -1,0 +1,15 @@
+[25-Apr-2023 10:53:05 UTC] PHP Warning:  Undefined array key "bannerimage" in /home3/consultancynepal/public_html/cnbackend/database/actions/banner/insert.php on line 1
+[25-Apr-2023 10:53:05 UTC] PHP Warning:  Undefined array key "bannerimage" in /home3/consultancynepal/public_html/cnbackend/database/actions/banner/insert.php on line 1
+[25-Apr-2023 10:53:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/banner/insert.php on line 1
+[25-Apr-2023 10:53:05 UTC] PHP Warning:  Undefined array key "ht" in /home3/consultancynepal/public_html/cnbackend/database/actions/banner/insert.php on line 1
+[25-Apr-2023 10:53:05 UTC] PHP Warning:  Undefined array key "it" in /home3/consultancynepal/public_html/cnbackend/database/actions/banner/insert.php on line 1
+[25-Apr-2023 10:53:05 UTC] PHP Warning:  Undefined array key "video" in /home3/consultancynepal/public_html/cnbackend/database/actions/banner/insert.php on line 1
+[25-Apr-2023 10:53:50 UTC] PHP Warning:  Undefined array key "bannerimage" in /home3/consultancynepal/public_html/cnbackend/database/actions/banner/insert.php on line 1
+[25-Apr-2023 10:53:50 UTC] PHP Warning:  Undefined array key "bannerimage" in /home3/consultancynepal/public_html/cnbackend/database/actions/banner/insert.php on line 1
+[25-Apr-2023 10:53:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/banner/insert.php on line 1
+[25-Apr-2023 10:53:50 UTC] PHP Warning:  Undefined array key "ht" in /home3/consultancynepal/public_html/cnbackend/database/actions/banner/insert.php on line 1
+[25-Apr-2023 10:53:50 UTC] PHP Warning:  Undefined array key "it" in /home3/consultancynepal/public_html/cnbackend/database/actions/banner/insert.php on line 1
+[25-Apr-2023 10:53:50 UTC] PHP Warning:  Undefined array key "video" in /home3/consultancynepal/public_html/cnbackend/database/actions/banner/insert.php on line 1
+[28-Apr-2023 07:24:24 UTC] PHP Warning:  unlink(../../../public/uploads/banner/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/banner/delete.php on line 1
+[28-Apr-2023 07:40:33 UTC] PHP Warning:  unlink(../../../public/uploads/banner/uploads/banner/IMG-644b784fd00b37.40704078.webp): No such file or directory in /home3/consultancynepal/public_html/cnbackend/database/actions/banner/delete.php on line 1
+[28-Apr-2023 07:46:19 UTC] PHP Warning:  unlink(../../../public/uploads/banner/uploads/banner/IMG-644b79b0127e16.38153873.webp): No such file or directory in /home3/consultancynepal/public_html/cnbackend/database/actions/banner/delete.php on line 1

@@ -1,0 +1,7 @@
+[17-May-2023 08:00:59 UTC] PHP Warning:  Undefined property: stdClass::$intro_text in /home3/consultancynepal/public_html/cnbackend/templates/allpages/course/editcourse.php on line 83
+[17-May-2023 08:01:17 UTC] PHP Warning:  Undefined property: stdClass::$intro_text in /home3/consultancynepal/public_html/cnbackend/templates/allpages/course/editcourse.php on line 83
+[17-May-2023 08:06:41 UTC] PHP Warning:  Undefined property: stdClass::$intro_text in /home3/consultancynepal/public_html/cnbackend/templates/allpages/course/editcourse.php on line 83
+[17-May-2023 08:06:56 UTC] PHP Warning:  Undefined property: stdClass::$intro_text in /home3/consultancynepal/public_html/cnbackend/templates/allpages/course/editcourse.php on line 83
+[17-May-2023 08:07:25 UTC] PHP Warning:  Undefined property: stdClass::$intro_text in /home3/consultancynepal/public_html/cnbackend/templates/allpages/course/editcourse.php on line 83
+[17-May-2023 08:07:37 UTC] PHP Warning:  Undefined property: stdClass::$intro_text in /home3/consultancynepal/public_html/cnbackend/templates/allpages/course/editcourse.php on line 83
+[17-May-2023 08:07:45 UTC] PHP Warning:  Undefined property: stdClass::$intro_text in /home3/consultancynepal/public_html/cnbackend/templates/allpages/course/editcourse.php on line 83

@@ -1,0 +1,501 @@
+[13-Feb-2023 05:44:14 UTC] PHP Warning:  unlink(../../../public/0): No such file or directory in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit_country_content.php on line 1
+[13-Feb-2023 05:44:40 UTC] PHP Warning:  unlink(../../../public/0): No such file or directory in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit_country_content.php on line 1
+[13-Feb-2023 05:45:05 UTC] PHP Warning:  unlink(../../../public/0): No such file or directory in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit_country_content.php on line 1
+[13-Feb-2023 05:45:29 UTC] PHP Warning:  unlink(../../../public/0): No such file or directory in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit_country_content.php on line 1
+[13-Feb-2023 05:45:57 UTC] PHP Warning:  unlink(../../../public/0): No such file or directory in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit_country_content.php on line 1
+[13-Feb-2023 05:48:39 UTC] PHP Warning:  unlink(../../../public/0): No such file or directory in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit_country_content.php on line 1
+[13-Feb-2023 05:49:06 UTC] PHP Warning:  unlink(../../../public/0): No such file or directory in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit_country_content.php on line 1
+[16-Feb-2023 06:31:08 UTC] PHP Warning:  unlink(../../../public/0): No such file or directory in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit_country_content.php on line 1
+[22-Feb-2023 08:34:01 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/country/delete-country.php on line 1
+[28-Mar-2023 11:03:58 UTC] PHP Fatal error:  Uncaught TypeError: imagesx(): Argument #1 ($image) must be of type GdImage, null given in /home3/consultancynepal/public_html/cnbackend/database/actions/country/insert-country.php:37
+Stack trace:
+#0 /home3/consultancynepal/public_html/cnbackend/database/actions/country/insert-country.php(37): imagesx(NULL)
+#1 {main}
+  thrown in /home3/consultancynepal/public_html/cnbackend/database/actions/country/insert-country.php on line 37
+[28-Mar-2023 11:05:37 UTC] PHP Warning:  move_uploaded_file(public/uploads/country/IMG-6422ca01258495.03710614.webp): Failed to open stream: No such file or directory in /home3/consultancynepal/public_html/cnbackend/database/actions/country/insert-country.php on line 18
+[28-Mar-2023 11:05:37 UTC] PHP Warning:  move_uploaded_file(): Unable to move &quot;/tmp/phpyGVc82&quot; to &quot;public/uploads/country/IMG-6422ca01258495.03710614.webp&quot; in /home3/consultancynepal/public_html/cnbackend/database/actions/country/insert-country.php on line 18
+[28-Mar-2023 11:08:19 UTC] PHP Warning:  Undefined variable $new_img_name in /home3/consultancynepal/public_html/cnbackend/database/actions/country/insert-country.php on line 19
+[28-Mar-2023 11:08:19 UTC] PHP Warning:  move_uploaded_file(public/uploads/country/IMG-6422caa344fca2.76850735.webp): Failed to open stream: No such file or directory in /home3/consultancynepal/public_html/cnbackend/database/actions/country/insert-country.php on line 29
+[28-Mar-2023 11:08:19 UTC] PHP Warning:  move_uploaded_file(): Unable to move &quot;/tmp/phpdxRL8g&quot; to &quot;public/uploads/country/IMG-6422caa344fca2.76850735.webp&quot; in /home3/consultancynepal/public_html/cnbackend/database/actions/country/insert-country.php on line 29
+[28-Mar-2023 11:10:29 UTC] PHP Warning:  Undefined variable $_post in /home3/consultancynepal/public_html/cnbackend/database/actions/country/insert-country.php on line 11
+[28-Mar-2023 11:10:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/insert-country.php on line 11
+[28-Mar-2023 11:10:29 UTC] PHP Warning:  Undefined variable $new_img_name in /home3/consultancynepal/public_html/cnbackend/database/actions/country/insert-country.php on line 20
+[28-Mar-2023 11:10:29 UTC] PHP Warning:  move_uploaded_file(public/uploads/country/IMG-6422cb259f4c60.11346324.webp): Failed to open stream: No such file or directory in /home3/consultancynepal/public_html/cnbackend/database/actions/country/insert-country.php on line 30
+[28-Mar-2023 11:10:29 UTC] PHP Warning:  move_uploaded_file(): Unable to move &quot;/tmp/phpx7EzHP&quot; to &quot;public/uploads/country/IMG-6422cb259f4c60.11346324.webp&quot; in /home3/consultancynepal/public_html/cnbackend/database/actions/country/insert-country.php on line 30
+[28-Mar-2023 11:13:35 UTC] PHP Warning:  Undefined variable $_post in /home3/consultancynepal/public_html/cnbackend/database/actions/country/insert-country.php on line 11
+[28-Mar-2023 11:13:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/insert-country.php on line 11
+[28-Mar-2023 11:13:35 UTC] PHP Warning:  move_uploaded_file(public/uploads/country_thumb/IMG-6422cbdf768e12.29683876.webp): Failed to open stream: No such file or directory in /home3/consultancynepal/public_html/cnbackend/database/actions/country/insert-country.php on line 29
+[28-Mar-2023 11:13:35 UTC] PHP Warning:  move_uploaded_file(): Unable to move &quot;/tmp/phpXjSRrm&quot; to &quot;public/uploads/country_thumb/IMG-6422cbdf768e12.29683876.webp&quot; in /home3/consultancynepal/public_html/cnbackend/database/actions/country/insert-country.php on line 29
+[30-Mar-2023 09:31:27 UTC] PHP Warning:  Undefined array key "university_list" in /home3/consultancynepal/public_html/cnbackend/database/actions/country/add_university.php on line 4
+[30-Mar-2023 09:32:57 UTC] PHP Warning:  Undefined array key "university_list" in /home3/consultancynepal/public_html/cnbackend/database/actions/country/add_university.php on line 4
+[30-Mar-2023 09:34:33 UTC] PHP Warning:  Undefined array key "university_list" in /home3/consultancynepal/public_html/cnbackend/database/actions/country/add_university.php on line 8
+[30-Mar-2023 09:36:16 UTC] PHP Warning:  Undefined array key "university_list" in /home3/consultancynepal/public_html/cnbackend/database/actions/country/add_university.php on line 8
+[30-Mar-2023 09:38:12 UTC] PHP Warning:  Undefined array key "university_list" in /home3/consultancynepal/public_html/cnbackend/database/actions/country/add_university.php on line 8
+[30-Mar-2023 09:41:38 UTC] PHP Warning:  Undefined array key "university_list" in /home3/consultancynepal/public_html/cnbackend/database/actions/country/add_university.php on line 8
+[30-Mar-2023 09:42:24 UTC] PHP Warning:  Undefined array key "university_list" in /home3/consultancynepal/public_html/cnbackend/database/actions/country/add_university.php on line 8
+[30-Mar-2023 09:43:02 UTC] PHP Warning:  Undefined array key "university_list" in /home3/consultancynepal/public_html/cnbackend/database/actions/country/add_university.php on line 8
+[30-Mar-2023 09:43:07 UTC] PHP Warning:  Undefined array key "university_list" in /home3/consultancynepal/public_html/cnbackend/database/actions/country/add_university.php on line 8
+[30-Mar-2023 09:45:02 UTC] PHP Warning:  Undefined variable $present_aid in /home3/consultancynepal/public_html/cnbackend/database/actions/country/add_university.php on line 25
+[30-Mar-2023 09:45:06 UTC] PHP Warning:  Undefined variable $present_aid in /home3/consultancynepal/public_html/cnbackend/database/actions/country/add_university.php on line 25
+[30-Mar-2023 09:52:54 UTC] PHP Warning:  Undefined variable $_post in /home3/consultancynepal/public_html/cnbackend/database/actions/country/insert-country.php on line 11
+[30-Mar-2023 09:52:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/insert-country.php on line 11
+[30-Mar-2023 09:52:54 UTC] PHP Warning:  imagecreatefrompng(): &quot;berger.png&quot; is not a valid PNG file in /home3/consultancynepal/public_html/cnbackend/database/actions/country/insert-country.php on line 43
+[30-Mar-2023 09:53:22 UTC] PHP Warning:  Undefined variable $_post in /home3/consultancynepal/public_html/cnbackend/database/actions/country/insert-country.php on line 11
+[30-Mar-2023 09:53:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/insert-country.php on line 11
+[30-Mar-2023 09:55:52 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/country/delete-country.php on line 1
+[30-Mar-2023 17:04:53 UTC] PHP Warning:  Undefined variable $_post in /home3/consultancynepal/public_html/cnbackend/database/actions/country/insert-country.php on line 11
+[30-Mar-2023 17:04:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/insert-country.php on line 11
+[30-Mar-2023 17:05:20 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/country/delete-country.php on line 1
+[30-Mar-2023 17:05:24 UTC] PHP Warning:  unlink(../../../public/uploads/countryIMG-6422cbdf814864.86361709.webp): No such file or directory in /home3/consultancynepal/public_html/cnbackend/database/actions/country/delete-country.php on line 1
+[03-Apr-2023 06:43:20 UTC] PHP Warning:  Undefined variable $_post in /home3/consultancynepal/public_html/cnbackend/database/actions/country/insert-country.php on line 11
+[03-Apr-2023 06:43:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/insert-country.php on line 11
+[03-Apr-2023 06:43:20 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home3/consultancynepal/public_html/cnbackend/database/actions/country/insert-country.php on line 41
+[03-Apr-2023 06:43:20 UTC] PHP Warning:  imagecreatefromjpeg(): &quot;back1.jpg&quot; is not a valid JPEG file in /home3/consultancynepal/public_html/cnbackend/database/actions/country/insert-country.php on line 41
+[03-Apr-2023 06:44:25 UTC] PHP Warning:  Undefined variable $_post in /home3/consultancynepal/public_html/cnbackend/database/actions/country/insert-country.php on line 11
+[03-Apr-2023 06:44:25 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/insert-country.php on line 11
+[03-Apr-2023 06:48:32 UTC] PHP Warning:  Undefined variable $_post in /home3/consultancynepal/public_html/cnbackend/database/actions/country/insert-country.php on line 11
+[03-Apr-2023 06:48:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/insert-country.php on line 11
+[03-Apr-2023 06:49:49 UTC] PHP Warning:  Undefined variable $_post in /home3/consultancynepal/public_html/cnbackend/database/actions/country/insert-country.php on line 11
+[03-Apr-2023 06:49:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/insert-country.php on line 11
+[03-Apr-2023 06:49:49 UTC] PHP Fatal error:  Uncaught TypeError: imagesx(): Argument #1 ($image) must be of type GdImage, null given in /home3/consultancynepal/public_html/cnbackend/database/actions/country/insert-country.php:51
+Stack trace:
+#0 /home3/consultancynepal/public_html/cnbackend/database/actions/country/insert-country.php(51): imagesx(NULL)
+#1 {main}
+  thrown in /home3/consultancynepal/public_html/cnbackend/database/actions/country/insert-country.php on line 51
+[03-Apr-2023 06:50:42 UTC] PHP Warning:  Undefined variable $_post in /home3/consultancynepal/public_html/cnbackend/database/actions/country/insert-country.php on line 11
+[03-Apr-2023 06:50:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/insert-country.php on line 11
+[03-Apr-2023 06:50:42 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x52 0x49 in /home3/consultancynepal/public_html/cnbackend/database/actions/country/insert-country.php on line 42
+[03-Apr-2023 06:50:42 UTC] PHP Warning:  imagecreatefromjpeg(): &quot;back1.jpg&quot; is not a valid JPEG file in /home3/consultancynepal/public_html/cnbackend/database/actions/country/insert-country.php on line 42
+[03-Apr-2023 06:51:09 UTC] PHP Warning:  unlink(../../../public/uploads/countryIMG-642a76c0bc1698.97218249.webp): No such file or directory in /home3/consultancynepal/public_html/cnbackend/database/actions/country/delete-country.php on line 1
+[03-Apr-2023 06:51:15 UTC] PHP Warning:  unlink(../../../public/uploads/countryIMG-642a75c916ec79.41956048.webp): No such file or directory in /home3/consultancynepal/public_html/cnbackend/database/actions/country/delete-country.php on line 1
+[03-Apr-2023 06:52:51 UTC] PHP Warning:  Undefined variable $_post in /home3/consultancynepal/public_html/cnbackend/database/actions/country/insert-country.php on line 11
+[03-Apr-2023 06:52:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/insert-country.php on line 11
+[03-Apr-2023 06:55:03 UTC] PHP Warning:  Undefined variable $_post in /home3/consultancynepal/public_html/cnbackend/database/actions/country/insert-country.php on line 11
+[03-Apr-2023 06:55:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/insert-country.php on line 11
+[03-Apr-2023 06:56:12 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/country/delete-country.php on line 1
+[03-Apr-2023 06:56:57 UTC] PHP Warning:  Undefined variable $_post in /home3/consultancynepal/public_html/cnbackend/database/actions/country/insert-country.php on line 11
+[03-Apr-2023 06:56:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/insert-country.php on line 11
+[03-Apr-2023 07:06:44 UTC] PHP Warning:  Undefined variable $_post in /home3/consultancynepal/public_html/cnbackend/database/actions/country/insert-country.php on line 11
+[03-Apr-2023 07:06:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/insert-country.php on line 11
+[03-Apr-2023 07:28:12 UTC] PHP Warning:  Undefined variable $_post in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[03-Apr-2023 07:28:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[03-Apr-2023 07:28:23 UTC] PHP Warning:  Undefined variable $_post in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[03-Apr-2023 07:28:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[03-Apr-2023 07:28:55 UTC] PHP Warning:  Undefined variable $_post in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[03-Apr-2023 07:28:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[03-Apr-2023 07:28:55 UTC] PHP Warning:  Undefined variable $image_name in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 41
+[03-Apr-2023 07:28:55 UTC] PHP Warning:  move_uploaded_file(): Unable to move &quot;/tmp/phpWhnSq8&quot; to &quot;&quot; in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 41
+[03-Apr-2023 07:28:55 UTC] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php:41
+Stack trace:
+#0 /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php(41): move_uploaded_file('/tmp/phpWhnSq8', '')
+#1 {main}
+  thrown in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 41
+[03-Apr-2023 07:30:11 UTC] PHP Warning:  Undefined variable $_post in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[03-Apr-2023 07:30:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[03-Apr-2023 07:30:11 UTC] PHP Warning:  Undefined variable $image_name in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 42
+[03-Apr-2023 07:30:11 UTC] PHP Warning:  move_uploaded_file(): Unable to move &quot;/tmp/phpgFZRYe&quot; to &quot;&quot; in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 42
+[03-Apr-2023 07:30:11 UTC] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php:42
+Stack trace:
+#0 /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php(42): move_uploaded_file('/tmp/phpgFZRYe', '')
+#1 {main}
+  thrown in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 42
+[03-Apr-2023 07:30:54 UTC] PHP Warning:  Undefined variable $_post in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[03-Apr-2023 07:30:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[03-Apr-2023 07:30:54 UTC] PHP Warning:  Undefined variable $image_name in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 41
+[03-Apr-2023 07:30:54 UTC] PHP Warning:  move_uploaded_file(): Unable to move &quot;/tmp/phpk1dbOY&quot; to &quot;&quot; in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 41
+[03-Apr-2023 07:30:54 UTC] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php:41
+Stack trace:
+#0 /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php(41): move_uploaded_file('/tmp/phpk1dbOY', '')
+#1 {main}
+  thrown in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 41
+[03-Apr-2023 07:32:34 UTC] PHP Warning:  Undefined variable $_post in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[03-Apr-2023 07:32:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[03-Apr-2023 07:32:34 UTC] PHP Warning:  Undefined variable $image_name in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 39
+[03-Apr-2023 07:32:34 UTC] PHP Warning:  move_uploaded_file(): Unable to move &quot;/tmp/phpeIbNX1&quot; to &quot;&quot; in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 39
+[03-Apr-2023 07:32:34 UTC] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php:39
+Stack trace:
+#0 /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php(39): move_uploaded_file('/tmp/phpeIbNX1', '')
+#1 {main}
+  thrown in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 39
+[03-Apr-2023 07:33:08 UTC] PHP Warning:  Undefined variable $_post in /home3/consultancynepal/public_html/cnbackend/database/actions/country/insert-country.php on line 11
+[03-Apr-2023 07:33:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/insert-country.php on line 11
+[03-Apr-2023 07:33:26 UTC] PHP Warning:  Undefined variable $_post in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[03-Apr-2023 07:33:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[03-Apr-2023 07:33:26 UTC] PHP Warning:  Undefined variable $image_name in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 39
+[03-Apr-2023 07:33:26 UTC] PHP Warning:  move_uploaded_file(): Unable to move &quot;/tmp/php8ttBg6&quot; to &quot;&quot; in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 39
+[03-Apr-2023 07:33:26 UTC] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php:39
+Stack trace:
+#0 /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php(39): move_uploaded_file('/tmp/php8ttBg6', '')
+#1 {main}
+  thrown in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 39
+[03-Apr-2023 07:34:55 UTC] PHP Warning:  Undefined array key "img_url" in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 9
+[03-Apr-2023 07:34:55 UTC] PHP Warning:  Undefined variable $_post in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[03-Apr-2023 07:34:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[03-Apr-2023 07:34:55 UTC] PHP Warning:  Undefined variable $image_name in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 39
+[03-Apr-2023 07:34:55 UTC] PHP Warning:  move_uploaded_file(): Unable to move &quot;/tmp/php55becI&quot; to &quot;&quot; in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 39
+[03-Apr-2023 07:34:55 UTC] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php:39
+Stack trace:
+#0 /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php(39): move_uploaded_file('/tmp/php55becI', '')
+#1 {main}
+  thrown in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 39
+[03-Apr-2023 07:37:37 UTC] PHP Warning:  Undefined array key "img_url" in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 9
+[03-Apr-2023 07:37:37 UTC] PHP Warning:  Undefined variable $_post in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[03-Apr-2023 07:37:37 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[03-Apr-2023 07:37:37 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 80
+[03-Apr-2023 07:38:01 UTC] PHP Warning:  Undefined array key "img_url" in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 9
+[03-Apr-2023 07:38:01 UTC] PHP Warning:  Undefined variable $_post in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[03-Apr-2023 07:38:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[03-Apr-2023 07:38:01 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 80
+[04-Apr-2023 10:53:34 UTC] PHP Parse error:  Unmatched '}' in /home3/consultancynepal/public_html/cnbackend/database/actions/country/insert_location.php on line 38
+[05-Apr-2023 03:36:20 UTC] PHP Fatal error:  Uncaught PDOException: Criteria not match in /home3/consultancynepal/public_html/cnbackend/database/database.php:2
+Stack trace:
+#0 /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit_location.php(13): Database->Update('location', Array)
+#1 {main}
+  thrown in /home3/consultancynepal/public_html/cnbackend/database/database.php on line 2
+[06-Apr-2023 05:42:51 UTC] PHP Warning:  Undefined array key "locationname" in /home3/consultancynepal/public_html/cnbackend/database/actions/country/inserts_univer.php on line 8
+[06-Apr-2023 05:42:51 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home3/consultancynepal/public_html/cnbackend/database/actions/country/inserts_univer.php on line 8
+[06-Apr-2023 05:42:51 UTC] PHP Warning:  Undefined variable $exe in /home3/consultancynepal/public_html/cnbackend/database/actions/country/inserts_univer.php on line 23
+[06-Apr-2023 05:43:48 UTC] PHP Warning:  Undefined array key "locationname" in /home3/consultancynepal/public_html/cnbackend/database/actions/country/inserts_univer.php on line 8
+[06-Apr-2023 05:43:48 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home3/consultancynepal/public_html/cnbackend/database/actions/country/inserts_univer.php on line 8
+[06-Apr-2023 05:43:48 UTC] PHP Warning:  Undefined variable $exe in /home3/consultancynepal/public_html/cnbackend/database/actions/country/inserts_univer.php on line 23
+[06-Apr-2023 05:44:11 UTC] PHP Warning:  Undefined array key "universityname" in /home3/consultancynepal/public_html/cnbackend/database/actions/country/inserts_univer.php on line 13
+[06-Apr-2023 05:44:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/inserts_univer.php on line 13
+[07-Apr-2023 07:53:58 UTC] PHP Warning:  Undefined array key "img_url" in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 9
+[07-Apr-2023 07:53:58 UTC] PHP Warning:  Undefined variable $_post in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[07-Apr-2023 07:53:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[07-Apr-2023 07:54:29 UTC] PHP Warning:  Undefined variable $_post in /home3/consultancynepal/public_html/cnbackend/database/actions/country/insert-country.php on line 11
+[07-Apr-2023 07:54:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/insert-country.php on line 11
+[07-Apr-2023 07:54:58 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/country/delete-country.php on line 15
+[07-Apr-2023 07:54:58 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/country/delete-country.php on line 16
+[07-Apr-2023 07:55:35 UTC] PHP Warning:  Undefined variable $_post in /home3/consultancynepal/public_html/cnbackend/database/actions/country/insert-country.php on line 11
+[07-Apr-2023 07:55:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/insert-country.php on line 11
+[07-Apr-2023 07:57:35 UTC] PHP Warning:  Undefined array key "img_url" in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 9
+[07-Apr-2023 07:57:35 UTC] PHP Warning:  Undefined variable $_post in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[07-Apr-2023 07:57:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[07-Apr-2023 07:58:06 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/country/delete-country.php on line 15
+[07-Apr-2023 07:58:06 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/country/delete-country.php on line 16
+[09-Apr-2023 06:38:41 UTC] PHP Warning:  Undefined variable $_post in /home3/consultancynepal/public_html/cnbackend/database/actions/country/insert-country.php on line 11
+[09-Apr-2023 06:38:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/insert-country.php on line 11
+[09-Apr-2023 06:39:45 UTC] PHP Warning:  Undefined array key "img_url" in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 9
+[09-Apr-2023 06:39:45 UTC] PHP Warning:  Undefined variable $_post in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[09-Apr-2023 06:39:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[09-Apr-2023 06:40:32 UTC] PHP Warning:  Undefined array key "img_url" in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 9
+[09-Apr-2023 06:40:32 UTC] PHP Warning:  Undefined variable $_post in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[09-Apr-2023 06:40:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[09-Apr-2023 06:41:08 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/country/delete-country.php on line 15
+[09-Apr-2023 06:41:08 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/country/delete-country.php on line 16
+[09-Apr-2023 07:55:13 UTC] PHP Warning:  Undefined variable $_post in /home3/consultancynepal/public_html/cnbackend/database/actions/country/insert-country.php on line 11
+[09-Apr-2023 07:55:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/insert-country.php on line 11
+[09-Apr-2023 07:56:59 UTC] PHP Warning:  Undefined variable $_post in /home3/consultancynepal/public_html/cnbackend/database/actions/country/insert-country.php on line 11
+[09-Apr-2023 07:56:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/insert-country.php on line 11
+[09-Apr-2023 07:58:38 UTC] PHP Warning:  Undefined variable $_post in /home3/consultancynepal/public_html/cnbackend/database/actions/country/insert-country.php on line 11
+[09-Apr-2023 07:58:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/insert-country.php on line 11
+[09-Apr-2023 07:59:09 UTC] PHP Warning:  Undefined variable $_post in /home3/consultancynepal/public_html/cnbackend/database/actions/country/insert-country.php on line 11
+[09-Apr-2023 07:59:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/insert-country.php on line 11
+[09-Apr-2023 07:59:20 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/country/delete-country.php on line 15
+[09-Apr-2023 07:59:20 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/country/delete-country.php on line 16
+[09-Apr-2023 07:59:26 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/country/delete-country.php on line 15
+[09-Apr-2023 07:59:26 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/country/delete-country.php on line 16
+[09-Apr-2023 07:59:30 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/country/delete-country.php on line 15
+[09-Apr-2023 07:59:30 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/country/delete-country.php on line 16
+[09-Apr-2023 07:59:34 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/country/delete-country.php on line 15
+[09-Apr-2023 07:59:34 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/country/delete-country.php on line 16
+[09-Apr-2023 08:00:38 UTC] PHP Warning:  Undefined variable $_post in /home3/consultancynepal/public_html/cnbackend/database/actions/country/insert-country.php on line 11
+[09-Apr-2023 08:00:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/insert-country.php on line 11
+[09-Apr-2023 08:27:45 UTC] PHP Warning:  Undefined variable $_post in /home3/consultancynepal/public_html/cnbackend/database/actions/country/insert-country.php on line 11
+[09-Apr-2023 08:27:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/insert-country.php on line 11
+[09-Apr-2023 08:27:58 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/country/delete-country.php on line 15
+[09-Apr-2023 08:27:58 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/country/delete-country.php on line 16
+[09-Apr-2023 08:28:01 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/country/delete-country.php on line 15
+[09-Apr-2023 08:28:01 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/country/delete-country.php on line 16
+[09-Apr-2023 08:31:40 UTC] PHP Warning:  Undefined variable $_post in /home3/consultancynepal/public_html/cnbackend/database/actions/country/insert-country.php on line 11
+[09-Apr-2023 08:31:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/insert-country.php on line 11
+[09-Apr-2023 08:34:05 UTC] PHP Warning:  Undefined variable $_post in /home3/consultancynepal/public_html/cnbackend/database/actions/country/insert-country.php on line 11
+[09-Apr-2023 08:34:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/insert-country.php on line 11
+[09-Apr-2023 08:39:01 UTC] PHP Warning:  Undefined array key 0 in /home3/consultancynepal/public_html/cnbackend/database/actions/country/delete-country.php on line 10
+[09-Apr-2023 08:39:01 UTC] PHP Warning:  Attempt to read property "image" on null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/delete-country.php on line 10
+[09-Apr-2023 08:39:01 UTC] PHP Warning:  Undefined array key 0 in /home3/consultancynepal/public_html/cnbackend/database/actions/country/delete-country.php on line 11
+[09-Apr-2023 08:39:01 UTC] PHP Warning:  Attempt to read property "thumb_image" on null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/delete-country.php on line 11
+[09-Apr-2023 08:39:01 UTC] PHP Warning:  Undefined array key 0 in /home3/consultancynepal/public_html/cnbackend/database/actions/country/delete-country.php on line 12
+[09-Apr-2023 08:39:01 UTC] PHP Warning:  Attempt to read property "country_slug" on null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/delete-country.php on line 12
+[09-Apr-2023 08:39:01 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/country/delete-country.php on line 15
+[09-Apr-2023 08:39:01 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/country/delete-country.php on line 16
+[09-Apr-2023 10:04:41 UTC] PHP Warning:  Undefined variable $_post in /home3/consultancynepal/public_html/cnbackend/database/actions/country/insert-country.php on line 11
+[09-Apr-2023 10:04:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/insert-country.php on line 11
+[10-Apr-2023 06:08:58 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/country/delete-country.php on line 15
+[10-Apr-2023 06:08:58 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/country/delete-country.php on line 16
+[10-Apr-2023 06:09:02 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/country/delete-country.php on line 15
+[10-Apr-2023 06:09:02 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/country/delete-country.php on line 16
+[10-Apr-2023 06:09:06 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/country/delete-country.php on line 15
+[10-Apr-2023 06:09:06 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/country/delete-country.php on line 16
+[10-Apr-2023 06:31:47 UTC] PHP Warning:  Undefined variable $_post in /home3/consultancynepal/public_html/cnbackend/database/actions/country/insert-country.php on line 11
+[10-Apr-2023 06:31:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/insert-country.php on line 11
+[10-Apr-2023 06:31:57 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/country/delete-country.php on line 15
+[10-Apr-2023 06:31:57 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/country/delete-country.php on line 16
+[10-Apr-2023 08:16:48 UTC] PHP Warning:  Undefined variable $_post in /home3/consultancynepal/public_html/cnbackend/database/actions/country/insert-country.php on line 11
+[10-Apr-2023 08:16:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/insert-country.php on line 11
+[10-Apr-2023 08:18:17 UTC] PHP Warning:  Undefined variable $_post in /home3/consultancynepal/public_html/cnbackend/database/actions/country/insert-country.php on line 11
+[10-Apr-2023 08:18:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/insert-country.php on line 11
+[10-Apr-2023 08:26:13 UTC] PHP Warning:  Undefined variable $_post in /home3/consultancynepal/public_html/cnbackend/database/actions/country/insert-country.php on line 11
+[10-Apr-2023 08:26:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/insert-country.php on line 11
+[10-Apr-2023 13:44:56 UTC] PHP Warning:  Undefined variable $_post in /home3/consultancynepal/public_html/cnbackend/database/actions/country/insert-country.php on line 27
+[10-Apr-2023 13:44:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/insert-country.php on line 27
+[10-Apr-2023 13:45:24 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/country/delete-country.php on line 15
+[10-Apr-2023 13:45:24 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/country/delete-country.php on line 16
+[10-Apr-2023 13:45:28 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/country/delete-country.php on line 15
+[10-Apr-2023 13:45:28 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/country/delete-country.php on line 16
+[10-Apr-2023 13:45:32 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/country/delete-country.php on line 15
+[10-Apr-2023 13:45:32 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/country/delete-country.php on line 16
+[10-Apr-2023 13:45:36 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/country/delete-country.php on line 15
+[10-Apr-2023 13:45:36 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/country/delete-country.php on line 16
+[10-Apr-2023 13:46:09 UTC] PHP Warning:  Undefined variable $_post in /home3/consultancynepal/public_html/cnbackend/database/actions/country/insert-country.php on line 28
+[10-Apr-2023 13:46:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/insert-country.php on line 28
+[10-Apr-2023 13:51:26 UTC] PHP Warning:  Undefined variable $_post in /home3/consultancynepal/public_html/cnbackend/database/actions/country/insert-country.php on line 28
+[10-Apr-2023 13:51:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/insert-country.php on line 28
+[10-Apr-2023 13:52:26 UTC] PHP Warning:  Undefined variable $_post in /home3/consultancynepal/public_html/cnbackend/database/actions/country/insert-country.php on line 28
+[10-Apr-2023 13:52:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/insert-country.php on line 28
+[10-Apr-2023 13:55:30 UTC] PHP Warning:  Undefined variable $_post in /home3/consultancynepal/public_html/cnbackend/database/actions/country/insert-country.php on line 28
+[10-Apr-2023 13:55:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/insert-country.php on line 28
+[10-Apr-2023 13:55:48 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/country/delete-country.php on line 15
+[10-Apr-2023 13:55:48 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/country/delete-country.php on line 16
+[10-Apr-2023 13:55:51 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/country/delete-country.php on line 15
+[10-Apr-2023 13:55:51 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/country/delete-country.php on line 16
+[10-Apr-2023 13:55:54 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/country/delete-country.php on line 15
+[10-Apr-2023 13:55:54 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/country/delete-country.php on line 16
+[10-Apr-2023 13:55:57 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/country/delete-country.php on line 15
+[10-Apr-2023 13:55:57 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/country/delete-country.php on line 16
+[23-Apr-2023 09:00:52 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/country/delete_cc.php on line 1
+[27-Apr-2023 05:33:24 UTC] PHP Warning:  Undefined array key "img_url" in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 9
+[27-Apr-2023 05:33:24 UTC] PHP Warning:  Undefined variable $_post in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[27-Apr-2023 05:33:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[28-Apr-2023 09:05:08 UTC] PHP Warning:  Undefined array key "img_url" in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 9
+[28-Apr-2023 09:05:08 UTC] PHP Warning:  Undefined variable $_post in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[28-Apr-2023 09:05:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[17-May-2023 09:48:02 UTC] PHP Warning:  Undefined array key "consultancy_list" in /home3/consultancynepal/public_html/cnbackend/database/actions/country/addconsultancy.php on line 1
+[22-May-2023 11:00:29 UTC] PHP Warning:  Undefined array key "img_url" in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 9
+[22-May-2023 11:00:29 UTC] PHP Warning:  Undefined variable $_post in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[22-May-2023 11:00:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[23-May-2023 06:37:49 UTC] PHP Warning:  Undefined array key "img_url" in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 9
+[23-May-2023 06:37:49 UTC] PHP Warning:  Undefined variable $_post in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[23-May-2023 06:37:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[23-May-2023 06:37:49 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 80
+[23-May-2023 06:38:05 UTC] PHP Warning:  Undefined array key "img_url" in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 9
+[23-May-2023 06:38:05 UTC] PHP Warning:  Undefined variable $_post in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[23-May-2023 06:38:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[23-May-2023 06:38:05 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 80
+[23-May-2023 06:38:23 UTC] PHP Warning:  Undefined array key "img_url" in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 9
+[23-May-2023 06:38:23 UTC] PHP Warning:  Undefined variable $_post in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[23-May-2023 06:38:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[23-May-2023 06:38:23 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 80
+[23-May-2023 06:39:34 UTC] PHP Warning:  Undefined array key "img_url" in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 9
+[23-May-2023 06:39:34 UTC] PHP Warning:  Undefined variable $_post in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[23-May-2023 06:39:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[23-May-2023 06:39:34 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 80
+[23-May-2023 06:40:08 UTC] PHP Warning:  Undefined array key "img_url" in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 9
+[23-May-2023 06:40:08 UTC] PHP Warning:  Undefined variable $_post in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[23-May-2023 06:40:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[23-May-2023 06:40:08 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 80
+[23-May-2023 06:40:26 UTC] PHP Warning:  Undefined array key "img_url" in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 9
+[23-May-2023 06:40:26 UTC] PHP Warning:  Undefined variable $_post in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[23-May-2023 06:40:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[23-May-2023 06:40:26 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 80
+[23-May-2023 06:40:59 UTC] PHP Warning:  Undefined array key "img_url" in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 9
+[23-May-2023 06:40:59 UTC] PHP Warning:  Undefined variable $_post in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[23-May-2023 06:40:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[23-May-2023 06:40:59 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 80
+[23-May-2023 06:41:39 UTC] PHP Warning:  Undefined array key "img_url" in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 9
+[23-May-2023 06:41:39 UTC] PHP Warning:  Undefined variable $_post in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[23-May-2023 06:41:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[23-May-2023 06:41:39 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 80
+[23-May-2023 06:41:55 UTC] PHP Warning:  Undefined array key "img_url" in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 9
+[23-May-2023 06:41:55 UTC] PHP Warning:  Undefined variable $_post in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[23-May-2023 06:41:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[23-May-2023 06:41:55 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 80
+[23-May-2023 06:42:12 UTC] PHP Warning:  Undefined array key "img_url" in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 9
+[23-May-2023 06:42:12 UTC] PHP Warning:  Undefined variable $_post in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[23-May-2023 06:42:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[23-May-2023 06:42:12 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 80
+[23-May-2023 06:43:00 UTC] PHP Warning:  Undefined array key "img_url" in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 9
+[23-May-2023 06:43:00 UTC] PHP Warning:  Undefined variable $_post in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[23-May-2023 06:43:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[23-May-2023 06:43:00 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 80
+[23-May-2023 06:43:22 UTC] PHP Warning:  Undefined array key "img_url" in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 9
+[23-May-2023 06:43:22 UTC] PHP Warning:  Undefined variable $_post in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[23-May-2023 06:43:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[23-May-2023 06:43:22 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 80
+[23-May-2023 07:01:16 UTC] PHP Warning:  Undefined array key "img_url" in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 9
+[23-May-2023 07:01:16 UTC] PHP Warning:  Undefined variable $_post in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[23-May-2023 07:01:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[23-May-2023 07:01:16 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 80
+[23-May-2023 07:01:37 UTC] PHP Warning:  Undefined array key "img_url" in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 9
+[23-May-2023 07:01:37 UTC] PHP Warning:  Undefined variable $_post in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[23-May-2023 07:01:37 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[23-May-2023 07:01:38 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 80
+[23-May-2023 07:01:54 UTC] PHP Warning:  Undefined array key "img_url" in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 9
+[23-May-2023 07:01:54 UTC] PHP Warning:  Undefined variable $_post in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[23-May-2023 07:01:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[23-May-2023 07:01:54 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 80
+[23-May-2023 07:02:17 UTC] PHP Warning:  Undefined array key "img_url" in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 9
+[23-May-2023 07:02:17 UTC] PHP Warning:  Undefined variable $_post in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[23-May-2023 07:02:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[23-May-2023 07:02:17 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 80
+[23-May-2023 07:02:43 UTC] PHP Warning:  Undefined array key "img_url" in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 9
+[23-May-2023 07:02:43 UTC] PHP Warning:  Undefined variable $_post in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[23-May-2023 07:02:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[23-May-2023 07:02:43 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 80
+[23-May-2023 07:03:05 UTC] PHP Warning:  Undefined array key "img_url" in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 9
+[23-May-2023 07:03:05 UTC] PHP Warning:  Undefined variable $_post in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[23-May-2023 07:03:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[23-May-2023 07:03:05 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 80
+[23-May-2023 07:03:28 UTC] PHP Warning:  Undefined array key "img_url" in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 9
+[23-May-2023 07:03:28 UTC] PHP Warning:  Undefined variable $_post in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[23-May-2023 07:03:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[23-May-2023 07:03:28 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 80
+[23-May-2023 07:03:44 UTC] PHP Warning:  Undefined array key "img_url" in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 9
+[23-May-2023 07:03:44 UTC] PHP Warning:  Undefined variable $_post in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[23-May-2023 07:03:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[23-May-2023 07:03:44 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 80
+[23-May-2023 07:03:59 UTC] PHP Warning:  Undefined array key "img_url" in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 9
+[23-May-2023 07:03:59 UTC] PHP Warning:  Undefined variable $_post in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[23-May-2023 07:03:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[23-May-2023 07:03:59 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 80
+[23-May-2023 07:04:15 UTC] PHP Warning:  Undefined array key "img_url" in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 9
+[23-May-2023 07:04:15 UTC] PHP Warning:  Undefined variable $_post in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[23-May-2023 07:04:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[23-May-2023 07:04:15 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 80
+[23-May-2023 07:23:00 UTC] PHP Warning:  Undefined array key "img_url" in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 9
+[23-May-2023 07:23:00 UTC] PHP Warning:  Undefined variable $_post in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[23-May-2023 07:23:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[29-May-2023 04:57:49 UTC] PHP Warning:  Undefined array key "img_url" in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 9
+[29-May-2023 04:57:49 UTC] PHP Warning:  Undefined variable $_post in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[29-May-2023 04:57:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[29-May-2023 09:48:14 UTC] PHP Warning:  Undefined array key "img_url" in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 9
+[29-May-2023 09:48:14 UTC] PHP Warning:  Undefined variable $_post in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[29-May-2023 09:48:14 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[29-May-2023 09:48:56 UTC] PHP Warning:  Undefined array key "img_url" in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 9
+[29-May-2023 09:48:56 UTC] PHP Warning:  Undefined variable $_post in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[29-May-2023 09:48:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[11-Sep-2023 08:50:00 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/country/delete-country.php on line 16
+[06-Dec-2023 09:32:12 UTC] PHP Warning:  Undefined variable $obj in /home3/consultancynepal/public_html/cnbackend/database/actions/country/addconsultancy.php on line 62
+[06-Dec-2023 09:32:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function delete() on null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/addconsultancy.php:62
+Stack trace:
+#0 {main}
+  thrown in /home3/consultancynepal/public_html/cnbackend/database/actions/country/addconsultancy.php on line 62
+[06-Dec-2023 09:34:33 UTC] PHP Warning:  Undefined variable $obj in /home3/consultancynepal/public_html/cnbackend/database/actions/country/addconsultancy.php on line 62
+[06-Dec-2023 09:34:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function delete() on null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/addconsultancy.php:62
+Stack trace:
+#0 {main}
+  thrown in /home3/consultancynepal/public_html/cnbackend/database/actions/country/addconsultancy.php on line 62
+[13-Dec-2023 06:51:07 UTC] PHP Warning:  Undefined array key "img_url" in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 9
+[13-Dec-2023 06:51:07 UTC] PHP Warning:  Undefined variable $_post in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[13-Dec-2023 06:51:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[13-Dec-2023 06:51:11 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 80
+[13-Dec-2023 06:59:25 UTC] PHP Warning:  Undefined array key "img_url" in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 9
+[13-Dec-2023 06:59:25 UTC] PHP Warning:  Undefined variable $_post in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[13-Dec-2023 06:59:25 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[13-Dec-2023 06:59:29 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 80
+[13-Dec-2023 07:00:09 UTC] PHP Warning:  Undefined array key "img_url" in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 9
+[13-Dec-2023 07:00:09 UTC] PHP Warning:  Undefined variable $_post in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[13-Dec-2023 07:00:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[13-Dec-2023 07:00:14 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 80
+[13-Dec-2023 07:00:36 UTC] PHP Warning:  Undefined array key "img_url" in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 9
+[13-Dec-2023 07:00:36 UTC] PHP Warning:  Undefined variable $_post in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[13-Dec-2023 07:00:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[13-Dec-2023 07:00:37 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 80
+[13-Dec-2023 07:01:10 UTC] PHP Warning:  Undefined array key "img_url" in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 9
+[13-Dec-2023 07:01:10 UTC] PHP Warning:  Undefined variable $_post in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[13-Dec-2023 07:01:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[13-Dec-2023 07:01:12 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 80
+[13-Dec-2023 07:02:24 UTC] PHP Warning:  Undefined array key "img_url" in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 9
+[13-Dec-2023 07:02:24 UTC] PHP Warning:  Undefined variable $_post in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[13-Dec-2023 07:02:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[13-Dec-2023 07:02:30 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 80
+[13-Dec-2023 07:03:04 UTC] PHP Warning:  Undefined array key "img_url" in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 9
+[13-Dec-2023 07:03:04 UTC] PHP Warning:  Undefined variable $_post in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[13-Dec-2023 07:03:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[13-Dec-2023 07:03:08 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 80
+[13-Dec-2023 07:04:17 UTC] PHP Warning:  Undefined array key "img_url" in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 9
+[13-Dec-2023 07:04:17 UTC] PHP Warning:  Undefined variable $_post in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[13-Dec-2023 07:04:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[13-Dec-2023 07:04:23 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 80
+[13-Dec-2023 07:05:19 UTC] PHP Warning:  Undefined array key "img_url" in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 9
+[13-Dec-2023 07:05:19 UTC] PHP Warning:  Undefined variable $_post in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[13-Dec-2023 07:05:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[13-Dec-2023 07:05:25 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 80
+[13-Dec-2023 07:06:36 UTC] PHP Warning:  Undefined array key "img_url" in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 9
+[13-Dec-2023 07:06:36 UTC] PHP Warning:  Undefined variable $_post in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[13-Dec-2023 07:06:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[13-Dec-2023 07:06:41 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 80
+[13-Dec-2023 07:07:45 UTC] PHP Warning:  Undefined array key "img_url" in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 9
+[13-Dec-2023 07:07:45 UTC] PHP Warning:  Undefined variable $_post in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[13-Dec-2023 07:07:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[13-Dec-2023 07:07:51 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 80
+[13-Dec-2023 07:09:17 UTC] PHP Warning:  Undefined array key "img_url" in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 9
+[13-Dec-2023 07:09:17 UTC] PHP Warning:  Undefined variable $_post in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[13-Dec-2023 07:09:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[13-Dec-2023 07:09:20 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 80
+[13-Dec-2023 07:11:49 UTC] PHP Warning:  Undefined array key "img_url" in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 9
+[13-Dec-2023 07:11:49 UTC] PHP Warning:  Undefined variable $_post in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[13-Dec-2023 07:11:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[13-Dec-2023 07:11:56 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 80
+[13-Dec-2023 07:12:30 UTC] PHP Warning:  Undefined array key "img_url" in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 9
+[13-Dec-2023 07:12:30 UTC] PHP Warning:  Undefined variable $_post in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[13-Dec-2023 07:12:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[13-Dec-2023 07:12:31 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 80
+[13-Dec-2023 07:13:45 UTC] PHP Warning:  Undefined array key "img_url" in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 9
+[13-Dec-2023 07:13:45 UTC] PHP Warning:  Undefined variable $_post in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[13-Dec-2023 07:13:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[13-Dec-2023 07:13:52 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 80
+[13-Dec-2023 07:13:52 UTC] PHP Warning:  Undefined array key "img_url" in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 9
+[13-Dec-2023 07:13:52 UTC] PHP Warning:  Undefined variable $_post in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[13-Dec-2023 07:13:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[13-Dec-2023 07:13:58 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 80
+[13-Dec-2023 07:15:45 UTC] PHP Warning:  Undefined array key "img_url" in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 9
+[13-Dec-2023 07:15:45 UTC] PHP Warning:  Undefined variable $_post in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[13-Dec-2023 07:15:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[13-Dec-2023 07:15:52 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 80
+[13-Dec-2023 07:21:00 UTC] PHP Warning:  Undefined array key "img_url" in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 9
+[13-Dec-2023 07:21:00 UTC] PHP Warning:  Undefined variable $_post in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[13-Dec-2023 07:21:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[13-Dec-2023 07:21:06 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 80
+[13-Dec-2023 07:21:07 UTC] PHP Warning:  Undefined array key "img_url" in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 9
+[13-Dec-2023 07:21:07 UTC] PHP Warning:  Undefined variable $_post in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[13-Dec-2023 07:21:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[13-Dec-2023 07:21:12 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 80
+[13-Dec-2023 07:21:38 UTC] PHP Warning:  Undefined array key "img_url" in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 9
+[13-Dec-2023 07:21:38 UTC] PHP Warning:  Undefined variable $_post in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[13-Dec-2023 07:21:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[13-Dec-2023 07:21:41 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 80
+[13-Dec-2023 07:21:56 UTC] PHP Warning:  Undefined array key "img_url" in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 9
+[13-Dec-2023 07:21:56 UTC] PHP Warning:  Undefined variable $_post in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[13-Dec-2023 07:21:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[13-Dec-2023 07:21:59 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 80
+[13-Dec-2023 07:22:55 UTC] PHP Warning:  Undefined array key "img_url" in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 9
+[13-Dec-2023 07:22:55 UTC] PHP Warning:  Undefined variable $_post in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[13-Dec-2023 07:22:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[13-Dec-2023 07:22:56 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 80
+[13-Dec-2023 07:23:04 UTC] PHP Warning:  Undefined array key "img_url" in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 9
+[13-Dec-2023 07:23:04 UTC] PHP Warning:  Undefined variable $_post in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[13-Dec-2023 07:23:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[13-Dec-2023 07:23:10 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 80
+[13-Dec-2023 07:25:16 UTC] PHP Warning:  Undefined array key "img_url" in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 9
+[13-Dec-2023 07:25:16 UTC] PHP Warning:  Undefined variable $_post in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[13-Dec-2023 07:25:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[13-Dec-2023 07:26:17 UTC] PHP Warning:  Undefined array key "img_url" in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 9
+[13-Dec-2023 07:26:17 UTC] PHP Warning:  Undefined variable $_post in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[13-Dec-2023 07:26:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[04-Jan-2024 13:46:07 UTC] PHP Warning:  Undefined array key "consultancy_list" in /home3/consultancynepal/public_html/cnbackend/database/actions/country/addconsultancy.php on line 4
+[05-Jan-2024 05:35:48 UTC] PHP Warning:  Undefined variable $obj in /home3/consultancynepal/public_html/cnbackend/database/actions/country/addconsultancy.php on line 62
+[05-Jan-2024 05:35:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function delete() on null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/addconsultancy.php:62
+Stack trace:
+#0 {main}
+  thrown in /home3/consultancynepal/public_html/cnbackend/database/actions/country/addconsultancy.php on line 62
+[09-Jan-2024 07:43:28 UTC] PHP Warning:  Undefined array key "img_url" in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 9
+[09-Jan-2024 07:43:28 UTC] PHP Warning:  Undefined variable $_post in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[09-Jan-2024 07:43:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[10-Jan-2024 03:30:28 UTC] PHP Warning:  Undefined array key "img_url" in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 9
+[10-Jan-2024 03:30:28 UTC] PHP Warning:  Undefined variable $_post in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[10-Jan-2024 03:30:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[10-Jan-2024 06:04:23 UTC] PHP Warning:  Undefined array key "img_url" in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 9
+[10-Jan-2024 06:04:23 UTC] PHP Warning:  Undefined variable $_post in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14
+[10-Jan-2024 06:04:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/country/edit.php on line 14

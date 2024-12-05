@@ -1,0 +1,260 @@
+header {
+  box-shadow: 4px 0px 12px 2px rgba(175, 175, 175, 0.75);
+  background: white;
+  position: sticky;
+  top: 0px;
+  width: 100%;
+  z-index: 99;
+  .main-navigation-bar {
+    @include space-between;
+    gap: 20px;
+    padding: 10px 0px;
+    .logo {
+      flex-shrink: 0;
+      img {
+        height: 55px;
+      }
+    }
+    .hamburger-menu {
+      display: none;
+      .sideNavOpen {
+        background-color: $primary-color;
+        padding: 5px 10px;
+        border-radius: 5px;
+        color: white !important;
+        cursor: pointer;
+        border: none !important;
+      }
+      @media (max-width: 1199px) {
+        display: block;
+      }
+    }
+    nav {
+      @media (max-width: 1199px) {
+        display: none;
+      }
+      .navbar-nav {
+        flex-direction: row;
+        @media (max-width: 1199px) {
+          flex-direction: column;
+        }
+        gap: 30px;
+        @media (max-width: 1399px) {
+          gap: 15px;
+        }
+      }
+      .nav-item {
+        .nav-link {
+          padding: 0px !important;
+          font-family: "Lato", sans-serif;
+          font-size: 16px;
+          font-weight: 500;
+          line-height: 24px;
+          color: $general-color !important;
+          &:hover {
+            color: $primary-color !important;
+          }
+          .active {
+            color: $primary-color !important;
+          }
+        }
+      }
+      .dropdown {
+        &:hover {
+          .dropdown-menu {
+            position: absolute;
+            display: block;
+            opacity: 1;
+            top: 100% !important;
+            visibility: visible;
+          }
+        }
+      }
+    }
+    .open {
+      right: 0 !important;
+      opacity: 1 !important;
+    }
+  }
+}
+.dropdown-menu {
+  padding: 10px 0px !important;
+  transition: 0.5s;
+  display: block !important;
+  position: absolute !important;
+  left: 0px !important;
+  top: 0px !important;
+  margin: 0 !important;
+  opacity: 0;
+  visibility: hidden;
+  li {
+    padding: 2px 0px;
+    .dropdown-item {
+      font-family: "Lato", sans-serif;
+      font-size: 16px;
+      font-weight: 500;
+      line-height: 24px;
+      color: $general-color !important;
+      padding: 5px 20px !important;
+      transition: all 500ms linear;
+      i {
+        font-size: 10px;
+        color: $primary-color;
+      }
+      &:hover {
+        background-color: $primary-color;
+        color: white !important;
+        i {
+          color: white;
+        }
+      }
+    }
+    .view-all-btn {
+      color: $primary-color !important;
+      text-decoration: underline !important;
+      font-weight: 600;
+      font-size: 14px;
+      letter-spacing: 0.5px;
+      text-transform: uppercase;
+      font-style: italic;
+    }
+  }
+}
+
+body.open-opacity {
+  position: fixed;
+  width: 100%;
+  &::after {
+    content: "";
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-color: #000000;
+    opacity: 0.6;
+    z-index: 99999;
+  }
+}
+
+.dimheader {
+  z-index: 9;
+}
+.sidenav.open {
+  right: 0;
+  opacity: 1;
+}
+
+.sidenav {
+  position: fixed;
+  top: 0;
+  right: -100%;
+  transition: all 0.3s ease-in-out;
+  z-index: 9999999999;
+  background: white;
+  height: 100vh;
+  width: 100%;
+  max-width: 400px;
+  opacity: 0;
+  overflow-y: auto;
+
+  .side-nav-close-btn {
+    padding: 10px 0px;
+    width: fit-content;
+    margin-left: auto;
+    margin-right: 30px;
+    .sideNavClose {
+      display: inline-block;
+      padding: 5px 10px;
+      background-color: $primary-color;
+      color: white !important;
+      font-size: 20px;
+      border-radius: 5px;
+      cursor: pointer;
+      border: none !important;
+    }
+  }
+  .side-nav-body {
+    padding: 0px 30px 30px;
+    .navigation-menu {
+      margin-top: 20px !important;
+      li {
+        display: block;
+        border-bottom: 1px dotted #c4c4c4;
+        padding-bottom: 10px;
+        margin-bottom: 10px;
+        font-family: "Lato", sans-serif;
+        font-size: 16px;
+        font-weight: 600;
+        line-height: 24px;
+        color: $general-color !important;
+        &:hover {
+          color: $primary-color !important;
+        }
+        .accordion-item {
+          border: none;
+          background-color: transparent !important;
+          margin-bottom: 0px;
+          .accordion-button {
+            padding: 0px !important;
+            border: none !important;
+            font-family: "Lato", sans-serif;
+            font-size: 16px;
+            font-weight: 600;
+            line-height: 24px;
+            color: $general-color !important;
+            background-color: transparent !important;
+            &::after {
+              background-image: url("../images/dropdown-icon.png") !important;
+            }
+            &:focus {
+              border-color: white;
+              box-shadow: none !important ;
+            }
+            &:not(.collapsed) {
+              background-color: transparent !important;
+            }
+            &:hover {
+              color: $primary-color !important;
+            }
+          }
+          .accordion-body {
+            border: none !important;
+            padding: 10px !important;
+            .accordion-nav-menu {
+              li {
+                font-family: "Lato", sans-serif;
+                font-size: 14px;
+                font-weight: 600;
+                line-height: 20px;
+                color: $general-color !important;
+                margin-bottom: 0px;
+                border-bottom: none;
+                padding-bottom: 8px;
+                display: flex;
+                align-items: flex-start;
+                gap: 10px;
+                i {
+                  color: $primary-color;
+                  font-size: 10px;
+                }
+                &:hover {
+                  color: $primary-color !important;
+                }
+                .view-all-btn {
+                  color: $primary-color !important;
+                  text-decoration: underline !important;
+                  font-weight: 600;
+                  font-size: 12px;
+                  letter-spacing: 0.5px;
+                  text-transform: uppercase;
+                  font-style: italic;
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

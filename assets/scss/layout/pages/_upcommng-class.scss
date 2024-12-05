@@ -1,0 +1,61 @@
+.comming-classes {
+  .heading-filter-wrapper {
+    display: flex;
+    gap: 20px;
+    justify-content: flex-end;
+    @media (max-width: 991px) {
+      flex-direction: row;
+    }
+    @media (max-width: 480px) {
+      gap: 10px;
+    }
+    .title {
+      flex: 2;
+      @media (max-width: 480px) {
+        flex: 1;
+      }
+    }
+    .filter-wrapper {
+      margin-bottom: 10px;
+      flex: 1;
+    }
+  }
+}
+
+.upcommingClass-Modal {
+  .modal-content {
+    padding: 20px;
+  }
+  .modal-header {
+    padding: 0px !important;
+    font-weight: 700;
+    font-size: 18px;
+    border-bottom: none !important;
+    .title {
+      font-size: 18px;
+    }
+    .btn-close {
+      background: $primary-color;
+      color: white;
+      opacity: 1;
+      height: 15px;
+      width: 25px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      border-radius: 3px;
+      background-image: none !important;
+    }
+  }
+  .modal-body {
+    padding: 0px !important;
+  }
+  .register-now-btn {
+    background: #36ac49 ;
+    color: white;
+    border-radius: 3px;
+    border: none !important;
+    padding: 5px 10px;
+    margin-top: 10px;
+  }
+}

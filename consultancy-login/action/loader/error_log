@@ -1,0 +1,6 @@
+[22-Mar-2023 09:22:47 UTC] PHP Warning:  Undefined property: stdClass::$id in /home3/consultancynepal/public_html/consultancy-login/action/loader/load_area.php on line 13
+[22-Mar-2023 09:22:48 UTC] PHP Warning:  Undefined property: stdClass::$area in /home3/consultancynepal/public_html/consultancy-login/action/loader/load_area.php on line 13
+[22-Mar-2023 09:22:48 UTC] PHP Warning:  Undefined property: stdClass::$id in /home3/consultancynepal/public_html/consultancy-login/action/loader/load_area.php on line 13
+[22-Mar-2023 09:22:48 UTC] PHP Warning:  Undefined property: stdClass::$area in /home3/consultancynepal/public_html/consultancy-login/action/loader/load_area.php on line 13
+[22-Mar-2023 09:22:48 UTC] PHP Warning:  Undefined property: stdClass::$id in /home3/consultancynepal/public_html/consultancy-login/action/loader/load_area.php on line 13
+[22-Mar-2023 09:22:48 UTC] PHP Warning:  Undefined property: stdClass::$area in /home3/consultancynepal/public_html/consultancy-login/action/loader/load_area.php on line 13

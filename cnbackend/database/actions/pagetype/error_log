@@ -1,0 +1,37 @@
+[07-Apr-2023 09:05:56 UTC] PHP Warning:  unlink(../../../public/0): No such file or directory in /home3/consultancynepal/public_html/cnbackend/database/actions/pagetype/delete.php on line 1
+[07-Apr-2023 09:07:21 UTC] PHP Warning:  Undefined variable $img_upload_path in /home3/consultancynepal/public_html/cnbackend/database/actions/pagetype/insert.php on line 1
+[07-Apr-2023 09:07:34 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/pagetype/delete.php on line 1
+[09-Jan-2024 10:10:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Database::CreateTable() in /home3/consultancynepal/public_html/cnbackend/database/actions/pagetype/insert.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/consultancynepal/public_html/cnbackend/database/actions/pagetype/insert.php on line 8
+[09-Jan-2024 10:13:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Database::CreateTable() in /home3/consultancynepal/public_html/cnbackend/database/actions/pagetype/insert.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/consultancynepal/public_html/cnbackend/database/actions/pagetype/insert.php on line 8
+[09-Jan-2024 10:14:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Database::CreateTable() in /home3/consultancynepal/public_html/cnbackend/database/actions/pagetype/insert.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/consultancynepal/public_html/cnbackend/database/actions/pagetype/insert.php on line 8
+[09-Jan-2024 10:15:07 UTC] PHP Warning:  Undefined variable $url in /home3/consultancynepal/public_html/cnbackend/database/actions/pagetype/insert.php on line 18
+[09-Jan-2024 10:15:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/consultancynepal/public_html/cnbackend/database/actions/pagetype/insert.php on line 18
+[09-Jan-2024 10:50:46 UTC] PHP Warning:  Undefined variable $insert_params in /home3/consultancynepal/public_html/cnbackend/database/actions/pagetype/insert.php on line 54
+[09-Jan-2024 10:50:46 UTC] PHP Warning:  Array to string conversion in /home3/consultancynepal/public_html/cnbackend/database/actions/pagetype/insert.php on line 54
+[09-Jan-2024 10:50:46 UTC] PHP Fatal error:  Uncaught TypeError: array_keys(): Argument #1 ($array) must be of type array, string given in /home3/consultancynepal/public_html/cnbackend/database/database.php:18
+Stack trace:
+#0 /home3/consultancynepal/public_html/cnbackend/database/database.php(18): array_keys('Array')
+#1 /home3/consultancynepal/public_html/cnbackend/database/actions/pagetype/insert.php(103): Database->Insert('page_types', 'Array')
+#2 {main}
+  thrown in /home3/consultancynepal/public_html/cnbackend/database/database.php on line 18
+[09-Jan-2024 10:56:51 UTC] PHP Warning:  Undefined variable $insert_params in /home3/consultancynepal/public_html/cnbackend/database/actions/pagetype/insert.php on line 60
+[09-Jan-2024 10:56:51 UTC] PHP Warning:  Array to string conversion in /home3/consultancynepal/public_html/cnbackend/database/actions/pagetype/insert.php on line 60
+[09-Jan-2024 10:57:22 UTC] PHP Warning:  Array to string conversion in /home3/consultancynepal/public_html/cnbackend/database/actions/pagetype/insert.php on line 61
+[09-Jan-2024 10:57:22 UTC] PHP Warning:  Array to string conversion in /home3/consultancynepal/public_html/cnbackend/database/actions/pagetype/insert.php on line 61
+[09-Jan-2024 10:57:25 UTC] PHP Warning:  Array to string conversion in /home3/consultancynepal/public_html/cnbackend/database/actions/pagetype/insert.php on line 61
+[09-Jan-2024 10:57:25 UTC] PHP Warning:  Array to string conversion in /home3/consultancynepal/public_html/cnbackend/database/actions/pagetype/insert.php on line 61
+[09-Jan-2024 11:15:14 UTC] PHP Warning:  Undefined variable $img_upload_path in /home3/consultancynepal/public_html/cnbackend/database/actions/pagetype/insert.php on line 114
+[14-Jan-2024 06:14:59 UTC] PHP Warning:  Undefined variable $img_upload_path in /home3/consultancynepal/public_html/cnbackend/database/actions/pagetype/insert.php on line 118
+[14-Jan-2024 08:23:59 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/pagetype/delete.php on line 29
+[14-Jan-2024 08:23:59 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/pagetype/delete.php on line 31
+[14-Jan-2024 08:24:02 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/pagetype/delete.php on line 29
+[14-Jan-2024 08:24:02 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/pagetype/delete.php on line 31

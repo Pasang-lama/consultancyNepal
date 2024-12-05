@@ -1,0 +1,6 @@
+[17-Jan-2024 07:25:08 UTC] PHP Warning:  Undefined variable $value in /home3/consultancynepal/public_html/cnbackend/database/actions/member/delete_memb.php on line 5
+[17-Jan-2024 07:25:08 UTC] PHP Fatal error:  Uncaught PDOException: Not valid criteria in /home3/consultancynepal/public_html/cnbackend/database/database.php:90
+Stack trace:
+#0 /home3/consultancynepal/public_html/cnbackend/database/actions/member/delete_memb.php(5): Database->Delete('cn_members_info', 'id', NULL)
+#1 {main}
+  thrown in /home3/consultancynepal/public_html/cnbackend/database/database.php on line 90

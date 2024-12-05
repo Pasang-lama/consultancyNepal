@@ -1,0 +1,4 @@
+[20-Mar-2023 07:52:21 UTC] PHP Warning:  Undefined property: stdClass::$id in /home3/consultancynepal/public_html/cnbackend/database/actions/loader/load_area.php on line 13
+[20-Mar-2023 07:52:21 UTC] PHP Warning:  Undefined property: stdClass::$area in /home3/consultancynepal/public_html/cnbackend/database/actions/loader/load_area.php on line 13
+[20-Mar-2023 07:52:21 UTC] PHP Warning:  Undefined property: stdClass::$id in /home3/consultancynepal/public_html/cnbackend/database/actions/loader/load_area.php on line 13
+[20-Mar-2023 07:52:21 UTC] PHP Warning:  Undefined property: stdClass::$area in /home3/consultancynepal/public_html/cnbackend/database/actions/loader/load_area.php on line 13

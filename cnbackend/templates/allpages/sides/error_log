@@ -1,0 +1,108 @@
+[08-Jan-2024 08:10:28 UTC] PHP Warning:  Undefined variable $db in /home3/consultancynepal/public_html/cnbackend/templates/allpages/sides/addsides.php on line 10
+[08-Jan-2024 08:10:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function CustomQuery() on null in /home3/consultancynepal/public_html/cnbackend/templates/allpages/sides/addsides.php:10
+Stack trace:
+#0 {main}
+  thrown in /home3/consultancynepal/public_html/cnbackend/templates/allpages/sides/addsides.php on line 10
+[08-Jan-2024 08:10:56 UTC] PHP Warning:  Undefined variable $db in /home3/consultancynepal/public_html/cnbackend/templates/allpages/sides/addsides.php on line 10
+[08-Jan-2024 08:10:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function CustomQuery() on null in /home3/consultancynepal/public_html/cnbackend/templates/allpages/sides/addsides.php:10
+Stack trace:
+#0 {main}
+  thrown in /home3/consultancynepal/public_html/cnbackend/templates/allpages/sides/addsides.php on line 10
+[08-Jan-2024 08:12:01 UTC] PHP Warning:  Undefined variable $db in /home3/consultancynepal/public_html/cnbackend/templates/allpages/sides/addsides.php on line 10
+[08-Jan-2024 08:12:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function CustomQuery() on null in /home3/consultancynepal/public_html/cnbackend/templates/allpages/sides/addsides.php:10
+Stack trace:
+#0 {main}
+  thrown in /home3/consultancynepal/public_html/cnbackend/templates/allpages/sides/addsides.php on line 10
+[08-Jan-2024 08:12:24 UTC] PHP Warning:  Undefined variable $db in /home3/consultancynepal/public_html/cnbackend/templates/allpages/sides/addsides.php on line 10
+[08-Jan-2024 08:12:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function CustomQuery() on null in /home3/consultancynepal/public_html/cnbackend/templates/allpages/sides/addsides.php:10
+Stack trace:
+#0 {main}
+  thrown in /home3/consultancynepal/public_html/cnbackend/templates/allpages/sides/addsides.php on line 10
+[08-Jan-2024 08:12:27 UTC] PHP Warning:  Undefined variable $db in /home3/consultancynepal/public_html/cnbackend/templates/allpages/sides/addsides.php on line 10
+[08-Jan-2024 08:12:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function CustomQuery() on null in /home3/consultancynepal/public_html/cnbackend/templates/allpages/sides/addsides.php:10
+Stack trace:
+#0 {main}
+  thrown in /home3/consultancynepal/public_html/cnbackend/templates/allpages/sides/addsides.php on line 10
+[08-Jan-2024 08:12:51 UTC] PHP Warning:  Undefined variable $db in /home3/consultancynepal/public_html/cnbackend/templates/allpages/sides/addsides.php on line 10
+[08-Jan-2024 08:12:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function CustomQuery() on null in /home3/consultancynepal/public_html/cnbackend/templates/allpages/sides/addsides.php:10
+Stack trace:
+#0 {main}
+  thrown in /home3/consultancynepal/public_html/cnbackend/templates/allpages/sides/addsides.php on line 10
+[08-Jan-2024 08:13:26 UTC] PHP Warning:  Undefined variable $db in /home3/consultancynepal/public_html/cnbackend/templates/allpages/sides/addsides.php on line 10
+[08-Jan-2024 08:13:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function CustomQuery() on null in /home3/consultancynepal/public_html/cnbackend/templates/allpages/sides/addsides.php:10
+Stack trace:
+#0 {main}
+  thrown in /home3/consultancynepal/public_html/cnbackend/templates/allpages/sides/addsides.php on line 10
+[08-Jan-2024 08:14:52 UTC] PHP Warning:  Undefined variable $db in /home3/consultancynepal/public_html/cnbackend/templates/allpages/sides/addsides.php on line 12
+[08-Jan-2024 08:14:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function CustomQuery() on null in /home3/consultancynepal/public_html/cnbackend/templates/allpages/sides/addsides.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/consultancynepal/public_html/cnbackend/templates/allpages/sides/addsides.php on line 12
+[08-Jan-2024 08:14:56 UTC] PHP Warning:  Undefined variable $db in /home3/consultancynepal/public_html/cnbackend/templates/allpages/sides/addsides.php on line 12
+[08-Jan-2024 08:14:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function CustomQuery() on null in /home3/consultancynepal/public_html/cnbackend/templates/allpages/sides/addsides.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/consultancynepal/public_html/cnbackend/templates/allpages/sides/addsides.php on line 12
+[08-Jan-2024 08:15:18 UTC] PHP Warning:  Undefined variable $db in /home3/consultancynepal/public_html/cnbackend/templates/allpages/sides/addsides.php on line 12
+[08-Jan-2024 08:15:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function CustomQuery() on null in /home3/consultancynepal/public_html/cnbackend/templates/allpages/sides/addsides.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/consultancynepal/public_html/cnbackend/templates/allpages/sides/addsides.php on line 12
+[08-Jan-2024 08:15:21 UTC] PHP Warning:  Undefined variable $db in /home3/consultancynepal/public_html/cnbackend/templates/allpages/sides/addsides.php on line 12
+[08-Jan-2024 08:15:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function CustomQuery() on null in /home3/consultancynepal/public_html/cnbackend/templates/allpages/sides/addsides.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/consultancynepal/public_html/cnbackend/templates/allpages/sides/addsides.php on line 12
+[08-Jan-2024 08:15:49 UTC] PHP Warning:  Undefined variable $db in /home3/consultancynepal/public_html/cnbackend/templates/allpages/sides/addsides.php on line 15
+[08-Jan-2024 08:15:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function CustomQuery() on null in /home3/consultancynepal/public_html/cnbackend/templates/allpages/sides/addsides.php:15
+Stack trace:
+#0 {main}
+  thrown in /home3/consultancynepal/public_html/cnbackend/templates/allpages/sides/addsides.php on line 15
+[08-Jan-2024 08:15:55 UTC] PHP Warning:  Undefined variable $db in /home3/consultancynepal/public_html/cnbackend/templates/allpages/sides/addsides.php on line 15
+[08-Jan-2024 08:15:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function CustomQuery() on null in /home3/consultancynepal/public_html/cnbackend/templates/allpages/sides/addsides.php:15
+Stack trace:
+#0 {main}
+  thrown in /home3/consultancynepal/public_html/cnbackend/templates/allpages/sides/addsides.php on line 15
+[08-Jan-2024 08:16:59 UTC] PHP Warning:  Undefined variable $db in /home3/consultancynepal/public_html/cnbackend/templates/allpages/sides/addsides.php on line 15
+[08-Jan-2024 08:16:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function CustomQuery() on null in /home3/consultancynepal/public_html/cnbackend/templates/allpages/sides/addsides.php:15
+Stack trace:
+#0 {main}
+  thrown in /home3/consultancynepal/public_html/cnbackend/templates/allpages/sides/addsides.php on line 15
+[08-Jan-2024 08:18:50 UTC] PHP Warning:  include(infos/message.php): Failed to open stream: No such file or directory in /home3/consultancynepal/public_html/cnbackend/templates/allpages/sides/addsides.php on line 54
+[08-Jan-2024 08:18:50 UTC] PHP Warning:  include(): Failed opening 'infos/message.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/consultancynepal/public_html/cnbackend/templates/allpages/sides/addsides.php on line 54
+[08-Jan-2024 08:18:50 UTC] PHP Warning:  Undefined variable $data in /home3/consultancynepal/public_html/cnbackend/templates/allpages/sides/addsides.php on line 84
+[08-Jan-2024 08:18:50 UTC] PHP Warning:  Attempt to read property "title" on null in /home3/consultancynepal/public_html/cnbackend/templates/allpages/sides/addsides.php on line 84
+[08-Jan-2024 08:18:50 UTC] PHP Warning:  Undefined variable $data in /home3/consultancynepal/public_html/cnbackend/templates/allpages/sides/addsides.php on line 89
+[08-Jan-2024 08:18:50 UTC] PHP Warning:  Attempt to read property "status" on null in /home3/consultancynepal/public_html/cnbackend/templates/allpages/sides/addsides.php on line 89
+[08-Jan-2024 08:18:50 UTC] PHP Warning:  Undefined variable $data in /home3/consultancynepal/public_html/cnbackend/templates/allpages/sides/addsides.php on line 91
+[08-Jan-2024 08:18:50 UTC] PHP Warning:  Attempt to read property "status" on null in /home3/consultancynepal/public_html/cnbackend/templates/allpages/sides/addsides.php on line 91
+[08-Jan-2024 08:19:34 UTC] PHP Warning:  include(infos/message.php): Failed to open stream: No such file or directory in /home3/consultancynepal/public_html/cnbackend/templates/allpages/sides/addsides.php on line 54
+[08-Jan-2024 08:19:34 UTC] PHP Warning:  include(): Failed opening 'infos/message.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/consultancynepal/public_html/cnbackend/templates/allpages/sides/addsides.php on line 54
+[08-Jan-2024 08:19:34 UTC] PHP Warning:  Undefined variable $data in /home3/consultancynepal/public_html/cnbackend/templates/allpages/sides/addsides.php on line 84
+[08-Jan-2024 08:19:34 UTC] PHP Warning:  Attempt to read property "title" on null in /home3/consultancynepal/public_html/cnbackend/templates/allpages/sides/addsides.php on line 84
+[08-Jan-2024 08:19:34 UTC] PHP Warning:  Undefined variable $data in /home3/consultancynepal/public_html/cnbackend/templates/allpages/sides/addsides.php on line 89
+[08-Jan-2024 08:19:34 UTC] PHP Warning:  Attempt to read property "status" on null in /home3/consultancynepal/public_html/cnbackend/templates/allpages/sides/addsides.php on line 89
+[08-Jan-2024 08:19:34 UTC] PHP Warning:  Undefined variable $data in /home3/consultancynepal/public_html/cnbackend/templates/allpages/sides/addsides.php on line 91
+[08-Jan-2024 08:19:34 UTC] PHP Warning:  Attempt to read property "status" on null in /home3/consultancynepal/public_html/cnbackend/templates/allpages/sides/addsides.php on line 91
+[08-Jan-2024 08:20:24 UTC] PHP Warning:  include(infos/message.php): Failed to open stream: No such file or directory in /home3/consultancynepal/public_html/cnbackend/templates/allpages/sides/addsides.php on line 55
+[08-Jan-2024 08:20:24 UTC] PHP Warning:  include(): Failed opening 'infos/message.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/consultancynepal/public_html/cnbackend/templates/allpages/sides/addsides.php on line 55
+[08-Jan-2024 08:21:16 UTC] PHP Warning:  include(infos/message.php): Failed to open stream: No such file or directory in /home3/consultancynepal/public_html/cnbackend/templates/allpages/sides/addsides.php on line 57
+[08-Jan-2024 08:21:16 UTC] PHP Warning:  include(): Failed opening 'infos/message.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/consultancynepal/public_html/cnbackend/templates/allpages/sides/addsides.php on line 57
+[08-Jan-2024 08:21:33 UTC] PHP Warning:  include(infos/message.php): Failed to open stream: No such file or directory in /home3/consultancynepal/public_html/cnbackend/templates/allpages/sides/addsides.php on line 57
+[08-Jan-2024 08:21:33 UTC] PHP Warning:  include(): Failed opening 'infos/message.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/consultancynepal/public_html/cnbackend/templates/allpages/sides/addsides.php on line 57
+[08-Jan-2024 08:22:27 UTC] PHP Warning:  include(infos/message.php): Failed to open stream: No such file or directory in /home3/consultancynepal/public_html/cnbackend/templates/allpages/sides/addsides.php on line 58
+[08-Jan-2024 08:22:27 UTC] PHP Warning:  include(): Failed opening 'infos/message.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/consultancynepal/public_html/cnbackend/templates/allpages/sides/addsides.php on line 58
+[08-Jan-2024 08:24:15 UTC] PHP Warning:  include(infos/message.php): Failed to open stream: No such file or directory in /home3/consultancynepal/public_html/cnbackend/templates/allpages/sides/addsides.php on line 61
+[08-Jan-2024 08:24:15 UTC] PHP Warning:  include(): Failed opening 'infos/message.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/consultancynepal/public_html/cnbackend/templates/allpages/sides/addsides.php on line 61
+[08-Jan-2024 08:24:20 UTC] PHP Warning:  include(infos/message.php): Failed to open stream: No such file or directory in /home3/consultancynepal/public_html/cnbackend/templates/allpages/sides/addsides.php on line 61
+[08-Jan-2024 08:24:20 UTC] PHP Warning:  include(): Failed opening 'infos/message.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/consultancynepal/public_html/cnbackend/templates/allpages/sides/addsides.php on line 61
+[08-Jan-2024 08:24:32 UTC] PHP Warning:  include(infos/message.php): Failed to open stream: No such file or directory in /home3/consultancynepal/public_html/cnbackend/templates/allpages/sides/addsides.php on line 61
+[08-Jan-2024 08:24:32 UTC] PHP Warning:  include(): Failed opening 'infos/message.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/consultancynepal/public_html/cnbackend/templates/allpages/sides/addsides.php on line 61
+[08-Jan-2024 08:25:51 UTC] PHP Warning:  include(infos/message.php): Failed to open stream: No such file or directory in /home3/consultancynepal/public_html/cnbackend/templates/allpages/sides/addsides.php on line 61
+[08-Jan-2024 08:25:51 UTC] PHP Warning:  include(): Failed opening 'infos/message.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/consultancynepal/public_html/cnbackend/templates/allpages/sides/addsides.php on line 61
+[08-Jan-2024 08:25:57 UTC] PHP Warning:  include(infos/message.php): Failed to open stream: No such file or directory in /home3/consultancynepal/public_html/cnbackend/templates/allpages/sides/addsides.php on line 61
+[08-Jan-2024 08:25:57 UTC] PHP Warning:  include(): Failed opening 'infos/message.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/consultancynepal/public_html/cnbackend/templates/allpages/sides/addsides.php on line 61
+[08-Jan-2024 08:26:02 UTC] PHP Warning:  include(infos/message.php): Failed to open stream: No such file or directory in /home3/consultancynepal/public_html/cnbackend/templates/allpages/sides/addsides.php on line 61
+[08-Jan-2024 08:26:02 UTC] PHP Warning:  include(): Failed opening 'infos/message.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/consultancynepal/public_html/cnbackend/templates/allpages/sides/addsides.php on line 61
+[08-Jan-2024 08:26:12 UTC] PHP Warning:  include(infos/message.php): Failed to open stream: No such file or directory in /home3/consultancynepal/public_html/cnbackend/templates/allpages/sides/addsides.php on line 61
+[08-Jan-2024 08:26:12 UTC] PHP Warning:  include(): Failed opening 'infos/message.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/consultancynepal/public_html/cnbackend/templates/allpages/sides/addsides.php on line 61

@@ -1,0 +1,50 @@
+footer {
+	background: #213343;
+	.footer-main {
+		.title {
+			border-bottom: 2px solid #eaeaea;
+			width: 100%;
+			color: white;
+			font-size: 18px;
+			padding-bottom: 10px;
+			margin-bottom: 10px;
+		}
+		ul {
+			li {
+                color: white;
+                &:hover {
+                    color: $primary-color;
+                }
+				a {
+					i {
+						font-size: 10px;
+						margin-right: 7px;
+					}
+				}
+			}
+			list-style: none;
+			margin: 0px;
+			padding: 0px;
+		}
+		.social-media {
+			i {
+				font-size: 25px;
+				width: fit-content;
+			}
+			gap: 10px;
+		}
+	}
+	.contact-us-footer {
+		ul {
+			li {
+				a {
+					i {
+						font-size: 16px;
+						margin-right: 7px;
+						width: 15px;
+					}
+				}
+			}
+		}
+	}
+}

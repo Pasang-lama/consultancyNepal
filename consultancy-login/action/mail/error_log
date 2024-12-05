@@ -1,0 +1,20 @@
+[22-Mar-2023 09:02:04 UTC] PHP Warning:  require_once(../../database.php): Failed to open stream: No such file or directory in /home3/consultancynepal/public_html/consultancy-login/action/mail/delete.php on line 2
+[22-Mar-2023 09:02:04 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../database.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home3/consultancynepal/public_html/consultancy-login/action/mail/delete.php:2
+Stack trace:
+#0 {main}
+  thrown in /home3/consultancynepal/public_html/consultancy-login/action/mail/delete.php on line 2
+[22-Mar-2023 09:02:14 UTC] PHP Warning:  require_once(../../database.php): Failed to open stream: No such file or directory in /home3/consultancynepal/public_html/consultancy-login/action/mail/delete.php on line 2
+[22-Mar-2023 09:02:14 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../database.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home3/consultancynepal/public_html/consultancy-login/action/mail/delete.php:2
+Stack trace:
+#0 {main}
+  thrown in /home3/consultancynepal/public_html/consultancy-login/action/mail/delete.php on line 2
+[22-Mar-2023 09:03:01 UTC] PHP Warning:  require_once(../../database.php): Failed to open stream: No such file or directory in /home3/consultancynepal/public_html/consultancy-login/action/mail/delete.php on line 2
+[22-Mar-2023 09:03:01 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../database.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home3/consultancynepal/public_html/consultancy-login/action/mail/delete.php:2
+Stack trace:
+#0 {main}
+  thrown in /home3/consultancynepal/public_html/consultancy-login/action/mail/delete.php on line 2
+[22-Mar-2023 09:03:56 UTC] PHP Warning:  require_once(../../database.php): Failed to open stream: No such file or directory in /home3/consultancynepal/public_html/consultancy-login/action/mail/delete.php on line 2
+[22-Mar-2023 09:03:56 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../database.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home3/consultancynepal/public_html/consultancy-login/action/mail/delete.php:2
+Stack trace:
+#0 {main}
+  thrown in /home3/consultancynepal/public_html/consultancy-login/action/mail/delete.php on line 2

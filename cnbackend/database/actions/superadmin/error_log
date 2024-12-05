@@ -1,0 +1,141 @@
+[23-Mar-2023 10:25:32 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/edit.php on line 1
+[30-Mar-2023 08:10:26 UTC] PHP Warning:  Undefined array key 0 in /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/delete-admin.php on line 1
+[30-Mar-2023 08:10:26 UTC] PHP Warning:  Attempt to read property "image" on null in /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/delete-admin.php on line 1
+[30-Mar-2023 08:10:26 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/delete-admin.php on line 1
+[30-Mar-2023 08:13:55 UTC] PHP Warning:  Undefined array key 0 in /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/delete-admin.php on line 1
+[30-Mar-2023 08:13:55 UTC] PHP Warning:  Attempt to read property "image" on null in /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/delete-admin.php on line 1
+[30-Mar-2023 08:13:55 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/delete-admin.php on line 1
+[30-Mar-2023 08:14:06 UTC] PHP Warning:  Undefined array key 0 in /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/delete-admin.php on line 1
+[30-Mar-2023 08:14:06 UTC] PHP Warning:  Attempt to read property "image" on null in /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/delete-admin.php on line 1
+[30-Mar-2023 08:14:06 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/delete-admin.php on line 1
+[30-Mar-2023 08:14:27 UTC] PHP Warning:  Undefined array key 0 in /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/delete-admin.php on line 1
+[30-Mar-2023 08:14:27 UTC] PHP Warning:  Attempt to read property "image" on null in /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/delete-admin.php on line 1
+[30-Mar-2023 08:14:27 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/delete-admin.php on line 1
+[30-Mar-2023 08:15:57 UTC] PHP Warning:  Undefined array key 0 in /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/delete-admin.php on line 1
+[30-Mar-2023 08:15:57 UTC] PHP Warning:  Attempt to read property "image" on null in /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/delete-admin.php on line 1
+[30-Mar-2023 08:15:57 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/delete-admin.php on line 1
+[31-Mar-2023 10:42:04 UTC] PHP Warning:  Undefined array key 0 in /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/delete-admin.php on line 1
+[31-Mar-2023 10:42:04 UTC] PHP Warning:  Attempt to read property "image" on null in /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/delete-admin.php on line 1
+[31-Mar-2023 10:42:04 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/delete-admin.php on line 1
+[07-Apr-2023 09:23:01 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/delete-admin.php on line 1
+[09-Apr-2023 06:41:20 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/delete-admin.php on line 1
+[09-Apr-2023 07:21:15 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/delete-admin.php on line 1
+[09-Apr-2023 07:21:19 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/delete-admin.php on line 1
+[09-Apr-2023 07:21:26 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/delete-admin.php on line 1
+[09-Apr-2023 07:21:31 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/delete-admin.php on line 1
+[09-Apr-2023 07:31:15 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/delete-admin.php on line 1
+[09-Apr-2023 07:33:05 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/delete-admin.php on line 1
+[09-Apr-2023 10:18:03 UTC] PHP Warning:  Undefined variable $error in /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/insert.php on line 12
+[09-Apr-2023 10:18:27 UTC] PHP Warning:  Undefined variable $error in /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/insert.php on line 12
+[09-Apr-2023 10:18:58 UTC] PHP Warning:  Undefined variable $error in /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/insert.php on line 13
+[09-Apr-2023 10:21:39 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/delete-admin.php on line 1
+[09-Apr-2023 11:45:11 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/delete-admin.php on line 1
+[09-Apr-2023 11:45:16 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/delete-admin.php on line 1
+[09-Apr-2023 11:45:20 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/delete-admin.php on line 1
+[10-Apr-2023 06:31:32 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/delete-admin.php on line 1
+[10-Apr-2023 06:31:36 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/delete-admin.php on line 1
+[10-Apr-2023 06:34:11 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/delete-admin.php on line 1
+[10-Apr-2023 06:41:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function test_input() in /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/insert.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/insert.php on line 12
+[10-Apr-2023 06:41:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function test_input() in /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/insert.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/insert.php on line 12
+[10-Apr-2023 06:42:52 UTC] PHP Warning:  Undefined variable $nameErr in /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/insert.php on line 15
+[10-Apr-2023 06:50:12 UTC] PHP Warning:  foreach() argument must be of type array|object, string given in /home3/consultancynepal/public_html/cnbackend/database/validation.php on line 5
+[10-Apr-2023 06:50:24 UTC] PHP Warning:  foreach() argument must be of type array|object, string given in /home3/consultancynepal/public_html/cnbackend/database/validation.php on line 5
+[10-Apr-2023 06:50:33 UTC] PHP Warning:  foreach() argument must be of type array|object, string given in /home3/consultancynepal/public_html/cnbackend/database/validation.php on line 5
+[10-Apr-2023 08:14:22 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/delete-admin.php on line 1
+[10-Apr-2023 08:14:25 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/delete-admin.php on line 1
+[10-Apr-2023 08:14:29 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/delete-admin.php on line 1
+[10-Apr-2023 08:14:32 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/delete-admin.php on line 1
+[10-Apr-2023 08:14:35 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/delete-admin.php on line 1
+[10-Apr-2023 08:14:38 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/delete-admin.php on line 1
+[10-Apr-2023 08:14:42 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/delete-admin.php on line 1
+[10-Apr-2023 09:38:10 UTC] PHP Warning:  Undefined variable $requiredfield in /home3/consultancynepal/public_html/cnbackend/database/validation.php on line 5
+[10-Apr-2023 09:38:10 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home3/consultancynepal/public_html/cnbackend/database/validation.php on line 5
+[10-Apr-2023 09:38:20 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/delete-admin.php on line 1
+[10-Apr-2023 09:38:23 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/delete-admin.php on line 1
+[10-Apr-2023 09:38:26 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/delete-admin.php on line 1
+[10-Apr-2023 09:38:29 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/delete-admin.php on line 1
+[10-Apr-2023 09:38:32 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/delete-admin.php on line 1
+[10-Apr-2023 09:38:36 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/delete-admin.php on line 1
+[10-Apr-2023 10:55:16 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/delete-admin.php on line 1
+[10-Apr-2023 10:55:20 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/delete-admin.php on line 1
+[10-Apr-2023 11:04:03 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/delete-admin.php on line 1
+[10-Apr-2023 13:29:35 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/delete-admin.php on line 1
+[10-Apr-2023 13:58:23 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/delete-admin.php on line 1
+[17-Apr-2023 06:52:15 UTC] PHP Parse error:  Unclosed '{' on line 5 in /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/insert.php on line 131
+[17-Apr-2023 07:59:38 UTC] PHP Fatal error:  Uncaught ImagickException: unable to open image `../../../public/uploads/admin/uploads/admin/99d8fe053838077e0d7ac4634d3c7624.jpg': No such file or directory @ error/blob.c/OpenBlob/2882 in /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/insert.php:81
+Stack trace:
+#0 /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/insert.php(81): Imagick->writeImage('../../../public...')
+#1 {main}
+  thrown in /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/insert.php on line 81
+[17-Apr-2023 08:02:31 UTC] PHP Fatal error:  Uncaught ImagickException: unable to open file `/tmp/magick-929154haS-8ozObsjH': No such file or directory @ error/constitute.c/ReadImage/604 in /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/insert.php:77
+Stack trace:
+#0 /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/insert.php(77): Imagick->__construct('/tmp/phpR6eX3D')
+#1 {main}
+  thrown in /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/insert.php on line 77
+[17-Apr-2023 08:18:56 UTC] PHP Fatal error:  Uncaught ImagickException: unable to open image `../../../public/uploads/admin/uploads/admin/f95c0e35cd8d6d2a4c77c9cded9494d3.jpg': No such file or directory @ error/blob.c/OpenBlob/2882 in /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/insert.php:84
+Stack trace:
+#0 /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/insert.php(84): Imagick->writeImage('../../../public...')
+#1 {main}
+  thrown in /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/insert.php on line 84
+[17-Apr-2023 08:21:53 UTC] PHP Fatal error:  Uncaught ImagickException: unable to open image `../../../public/uploads/adminuploads/admin/f49b772ef1b4bf59c68e40e74e634493.jpg': No such file or directory @ error/blob.c/OpenBlob/2882 in /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/insert.php:84
+Stack trace:
+#0 /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/insert.php(84): Imagick->writeImage('../../../public...')
+#1 {main}
+  thrown in /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/insert.php on line 84
+[17-Apr-2023 08:34:26 UTC] PHP Fatal error:  Uncaught ImagickException: unable to open file `/tmp/magick-1037898Vcn8TLroFYo1': No such file or directory @ error/constitute.c/ReadImage/604 in /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/insert.php:77
+Stack trace:
+#0 /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/insert.php(77): Imagick->__construct('/tmp/phpdVwoQn')
+#1 {main}
+  thrown in /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/insert.php on line 77
+[17-Apr-2023 08:37:10 UTC] PHP Fatal error:  Uncaught ImagickException: unable to open file `/tmp/magick-1043704Pr2_Waz6TzRy': No such file or directory @ error/constitute.c/ReadImage/604 in /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/insert.php:77
+Stack trace:
+#0 /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/insert.php(77): Imagick->__construct('/tmp/php3FKJd1')
+#1 {main}
+  thrown in /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/insert.php on line 77
+[17-Apr-2023 08:38:42 UTC] PHP Fatal error:  Uncaught ImagickException: unable to open file `/tmp/magick-1047076ct6xS2ZjZSrs': No such file or directory @ error/constitute.c/ReadImage/604 in /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/insert.php:77
+Stack trace:
+#0 /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/insert.php(77): Imagick->__construct('/tmp/phpP1Bf6J')
+#1 {main}
+  thrown in /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/insert.php on line 77
+[17-Apr-2023 08:40:43 UTC] PHP Fatal error:  Uncaught ImagickException: unable to open file `/tmp/magick-6756J-7mYg3Ozh01': No such file or directory @ error/constitute.c/ReadImage/604 in /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/insert.php:77
+Stack trace:
+#0 /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/insert.php(77): Imagick->__construct('/tmp/phpvu3GtD')
+#1 {main}
+  thrown in /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/insert.php on line 77
+[17-Apr-2023 08:43:02 UTC] PHP Warning:  Undefined variable $input_image in /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/insert.php on line 75
+[17-Apr-2023 08:44:39 UTC] PHP Fatal error:  Uncaught ImagickException: unable to open image `/tmp/phpdAQZ4c.jpeg': No such file or directory @ error/blob.c/OpenBlob/2882 in /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/insert.php:78
+Stack trace:
+#0 /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/insert.php(78): Imagick->__construct('/tmp/phpdAQZ4c....')
+#1 {main}
+  thrown in /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/insert.php on line 78
+[17-Apr-2023 08:46:20 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/delete-admin.php on line 1
+[17-Apr-2023 08:48:32 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/delete-admin.php on line 1
+[17-Apr-2023 08:48:40 UTC] PHP Warning:  unlink(../../../public/uploads/admin/e767b0c407b6dd68b0e80c3edcbd9f58.jpg): No such file or directory in /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/delete-admin.php on line 1
+[18-May-2023 06:28:38 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/delete-admin.php on line 1
+[18-May-2023 06:37:39 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/delete-admin.php on line 1
+[26-Nov-2023 12:03:37 UTC] PHP Warning:  Undefined array key "name" in /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/insert.php on line 28
+[26-Nov-2023 12:03:37 UTC] PHP Warning:  Undefined array key "username" in /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/insert.php on line 29
+[26-Nov-2023 12:03:37 UTC] PHP Warning:  Undefined array key "email" in /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/insert.php on line 30
+[26-Nov-2023 12:03:37 UTC] PHP Warning:  Undefined array key "password" in /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/insert.php on line 31
+[26-Nov-2023 12:03:37 UTC] PHP Warning:  Undefined array key "conformpassword" in /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/insert.php on line 32
+[26-Nov-2023 12:03:40 UTC] PHP Warning:  Undefined array key "name" in /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/insert.php on line 28
+[26-Nov-2023 12:03:40 UTC] PHP Warning:  Undefined array key "username" in /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/insert.php on line 29
+[26-Nov-2023 12:03:40 UTC] PHP Warning:  Undefined array key "email" in /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/insert.php on line 30
+[26-Nov-2023 12:03:40 UTC] PHP Warning:  Undefined array key "password" in /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/insert.php on line 31
+[26-Nov-2023 12:03:40 UTC] PHP Warning:  Undefined array key "conformpassword" in /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/insert.php on line 32
+[28-Nov-2023 15:06:05 UTC] PHP Warning:  Undefined array key "name" in /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/insert.php on line 28
+[28-Nov-2023 15:06:05 UTC] PHP Warning:  Undefined array key "username" in /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/insert.php on line 29
+[28-Nov-2023 15:06:05 UTC] PHP Warning:  Undefined array key "email" in /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/insert.php on line 30
+[28-Nov-2023 15:06:05 UTC] PHP Warning:  Undefined array key "password" in /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/insert.php on line 31
+[28-Nov-2023 15:06:05 UTC] PHP Warning:  Undefined array key "conformpassword" in /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/insert.php on line 32
+[16-Dec-2023 03:42:51 UTC] PHP Warning:  Undefined array key "name" in /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/insert.php on line 28
+[16-Dec-2023 03:42:51 UTC] PHP Warning:  Undefined array key "username" in /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/insert.php on line 29
+[16-Dec-2023 03:42:51 UTC] PHP Warning:  Undefined array key "email" in /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/insert.php on line 30
+[16-Dec-2023 03:42:51 UTC] PHP Warning:  Undefined array key "password" in /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/insert.php on line 31
+[16-Dec-2023 03:42:51 UTC] PHP Warning:  Undefined array key "conformpassword" in /home3/consultancynepal/public_html/cnbackend/database/actions/superadmin/insert.php on line 32

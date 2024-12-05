@@ -1,0 +1,141 @@
+[01-Mar-2023 07:55:42 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/consultancynepal/public_html/cnbackend/database/actions/places/insert_ct.php on line 2
+[01-Mar-2023 07:57:28 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/consultancynepal/public_html/cnbackend/database/actions/places/insert_ct.php on line 2
+[01-Mar-2023 07:57:40 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/consultancynepal/public_html/cnbackend/database/actions/places/insert_ct.php on line 2
+[01-Mar-2023 07:58:49 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/consultancynepal/public_html/cnbackend/database/actions/places/insert_ct.php on line 2
+[01-Mar-2023 08:01:03 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/consultancynepal/public_html/cnbackend/database/actions/places/insert_ct.php on line 2
+[01-Mar-2023 08:14:55 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/consultancynepal/public_html/cnbackend/database/actions/places/insert_area.php on line 2
+[01-Mar-2023 08:14:55 UTC] PHP Warning:  Undefined variable $area_table in /home3/consultancynepal/public_html/cnbackend/database/actions/places/insert_area.php on line 6
+[01-Mar-2023 08:14:55 UTC] PHP Fatal error:  Uncaught PDOException: Table name & data field is mandatory in /home3/consultancynepal/public_html/cnbackend/database/database.php:1
+Stack trace:
+#0 /home3/consultancynepal/public_html/cnbackend/database/actions/places/insert_area.php(6): Database->Insert(NULL, Array)
+#1 {main}
+  thrown in /home3/consultancynepal/public_html/cnbackend/database/database.php on line 1
+[01-Mar-2023 08:18:37 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/consultancynepal/public_html/cnbackend/database/actions/places/insert_area.php on line 2
+[01-Mar-2023 08:22:05 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/consultancynepal/public_html/cnbackend/database/actions/places/insert_area.php on line 2
+[01-Mar-2023 08:22:19 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/consultancynepal/public_html/cnbackend/database/actions/places/edit_area.php on line 2
+[01-Mar-2023 08:22:19 UTC] PHP Warning:  Undefined variable $area_table in /home3/consultancynepal/public_html/cnbackend/database/actions/places/edit_area.php on line 12
+[01-Mar-2023 08:22:19 UTC] PHP Fatal error:  Uncaught PDOException: Criteria not match in /home3/consultancynepal/public_html/cnbackend/database/database.php:1
+Stack trace:
+#0 /home3/consultancynepal/public_html/cnbackend/database/actions/places/edit_area.php(12): Database->Update(NULL, Array, 'id', Array)
+#1 {main}
+  thrown in /home3/consultancynepal/public_html/cnbackend/database/database.php on line 1
+[01-Mar-2023 08:22:48 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/consultancynepal/public_html/cnbackend/database/actions/places/edit_area.php on line 2
+[01-Mar-2023 08:23:48 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/consultancynepal/public_html/cnbackend/database/actions/places/insert_ct.php on line 2
+[01-Mar-2023 08:24:06 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/consultancynepal/public_html/cnbackend/database/actions/places/edit_area.php on line 2
+[01-Mar-2023 08:31:19 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/consultancynepal/public_html/cnbackend/database/actions/places/edit_area.php on line 2
+[19-Mar-2023 11:09:01 UTC] PHP Warning:  Undefined array key "area_list" in /home3/consultancynepal/public_html/cnbackend/database/actions/places/link_area.php on line 4
+[19-Mar-2023 11:09:01 UTC] PHP Warning:  Undefined property: stdClass::$area_id in /home3/consultancynepal/public_html/cnbackend/database/actions/places/link_area.php on line 12
+[19-Mar-2023 11:09:35 UTC] PHP Warning:  Undefined property: stdClass::$area_id in /home3/consultancynepal/public_html/cnbackend/database/actions/places/link_area.php on line 12
+[19-Mar-2023 11:09:35 UTC] PHP Warning:  Undefined variable $obj in /home3/consultancynepal/public_html/cnbackend/database/actions/places/link_area.php on line 51
+[19-Mar-2023 11:09:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function delete() on null in /home3/consultancynepal/public_html/cnbackend/database/actions/places/link_area.php:51
+Stack trace:
+#0 {main}
+  thrown in /home3/consultancynepal/public_html/cnbackend/database/actions/places/link_area.php on line 51
+[19-Mar-2023 11:10:39 UTC] PHP Warning:  Undefined property: stdClass::$area_id in /home3/consultancynepal/public_html/cnbackend/database/actions/places/link_area.php on line 12
+[19-Mar-2023 11:10:39 UTC] PHP Warning:  Undefined property: stdClass::$area_id in /home3/consultancynepal/public_html/cnbackend/database/actions/places/link_area.php on line 12
+[19-Mar-2023 11:10:51 UTC] PHP Warning:  Undefined property: stdClass::$area_id in /home3/consultancynepal/public_html/cnbackend/database/actions/places/link_area.php on line 12
+[19-Mar-2023 11:10:51 UTC] PHP Warning:  Undefined property: stdClass::$area_id in /home3/consultancynepal/public_html/cnbackend/database/actions/places/link_area.php on line 12
+[19-Mar-2023 11:10:51 UTC] PHP Warning:  Undefined property: stdClass::$area_id in /home3/consultancynepal/public_html/cnbackend/database/actions/places/link_area.php on line 12
+[19-Mar-2023 11:10:51 UTC] PHP Warning:  Undefined variable $obj in /home3/consultancynepal/public_html/cnbackend/database/actions/places/link_area.php on line 51
+[19-Mar-2023 11:10:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function delete() on null in /home3/consultancynepal/public_html/cnbackend/database/actions/places/link_area.php:51
+Stack trace:
+#0 {main}
+  thrown in /home3/consultancynepal/public_html/cnbackend/database/actions/places/link_area.php on line 51
+[19-Mar-2023 11:12:52 UTC] PHP Warning:  Array to string conversion in /home3/consultancynepal/public_html/cnbackend/database/actions/places/link_area.php on line 8
+[19-Mar-2023 11:13:02 UTC] PHP Warning:  Array to string conversion in /home3/consultancynepal/public_html/cnbackend/database/actions/places/link_area.php on line 8
+[19-Mar-2023 11:13:48 UTC] PHP Warning:  Array to string conversion in /home3/consultancynepal/public_html/cnbackend/database/actions/places/link_area.php on line 8
+[19-Mar-2023 11:14:09 UTC] PHP Warning:  Array to string conversion in /home3/consultancynepal/public_html/cnbackend/database/actions/places/link_area.php on line 8
+[19-Mar-2023 11:14:24 UTC] PHP Warning:  Array to string conversion in /home3/consultancynepal/public_html/cnbackend/database/actions/places/link_area.php on line 8
+[19-Mar-2023 11:15:34 UTC] PHP Warning:  Array to string conversion in /home3/consultancynepal/public_html/cnbackend/database/actions/places/dsct.php on line 6
+[19-Mar-2023 11:23:23 UTC] PHP Warning:  Undefined property: stdClass::$area_id in /home3/consultancynepal/public_html/cnbackend/database/actions/places/link_area.php on line 13
+[19-Mar-2023 11:23:23 UTC] PHP Warning:  Undefined property: stdClass::$area_id in /home3/consultancynepal/public_html/cnbackend/database/actions/places/link_area.php on line 13
+[19-Mar-2023 11:23:23 UTC] PHP Warning:  Undefined property: stdClass::$area_id in /home3/consultancynepal/public_html/cnbackend/database/actions/places/link_area.php on line 13
+[19-Mar-2023 11:23:23 UTC] PHP Warning:  Undefined property: stdClass::$area_id in /home3/consultancynepal/public_html/cnbackend/database/actions/places/link_area.php on line 13
+[19-Mar-2023 11:23:30 UTC] PHP Warning:  Undefined property: stdClass::$area_id in /home3/consultancynepal/public_html/cnbackend/database/actions/places/link_area.php on line 13
+[19-Mar-2023 11:23:30 UTC] PHP Warning:  Undefined property: stdClass::$area_id in /home3/consultancynepal/public_html/cnbackend/database/actions/places/link_area.php on line 13
+[19-Mar-2023 11:23:30 UTC] PHP Warning:  Undefined property: stdClass::$area_id in /home3/consultancynepal/public_html/cnbackend/database/actions/places/link_area.php on line 13
+[19-Mar-2023 11:23:30 UTC] PHP Warning:  Undefined property: stdClass::$area_id in /home3/consultancynepal/public_html/cnbackend/database/actions/places/link_area.php on line 13
+[19-Mar-2023 11:23:30 UTC] PHP Warning:  Undefined property: stdClass::$area_id in /home3/consultancynepal/public_html/cnbackend/database/actions/places/link_area.php on line 13
+[19-Mar-2023 11:23:30 UTC] PHP Warning:  Undefined variable $obj in /home3/consultancynepal/public_html/cnbackend/database/actions/places/link_area.php on line 52
+[19-Mar-2023 11:23:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function delete() on null in /home3/consultancynepal/public_html/cnbackend/database/actions/places/link_area.php:52
+Stack trace:
+#0 {main}
+  thrown in /home3/consultancynepal/public_html/cnbackend/database/actions/places/link_area.php on line 52
+[19-Mar-2023 11:23:39 UTC] PHP Warning:  Undefined property: stdClass::$area_id in /home3/consultancynepal/public_html/cnbackend/database/actions/places/link_area.php on line 13
+[19-Mar-2023 11:23:39 UTC] PHP Warning:  Undefined property: stdClass::$area_id in /home3/consultancynepal/public_html/cnbackend/database/actions/places/link_area.php on line 13
+[19-Mar-2023 11:23:39 UTC] PHP Warning:  Undefined property: stdClass::$area_id in /home3/consultancynepal/public_html/cnbackend/database/actions/places/link_area.php on line 13
+[19-Mar-2023 11:23:39 UTC] PHP Warning:  Undefined property: stdClass::$area_id in /home3/consultancynepal/public_html/cnbackend/database/actions/places/link_area.php on line 13
+[19-Mar-2023 11:23:39 UTC] PHP Warning:  Undefined property: stdClass::$area_id in /home3/consultancynepal/public_html/cnbackend/database/actions/places/link_area.php on line 13
+[19-Mar-2023 11:23:39 UTC] PHP Warning:  Undefined property: stdClass::$area_id in /home3/consultancynepal/public_html/cnbackend/database/actions/places/link_area.php on line 13
+[19-Mar-2023 11:23:39 UTC] PHP Warning:  Undefined variable $obj in /home3/consultancynepal/public_html/cnbackend/database/actions/places/link_area.php on line 52
+[19-Mar-2023 11:23:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function delete() on null in /home3/consultancynepal/public_html/cnbackend/database/actions/places/link_area.php:52
+Stack trace:
+#0 {main}
+  thrown in /home3/consultancynepal/public_html/cnbackend/database/actions/places/link_area.php on line 52
+[19-Mar-2023 11:25:31 UTC] PHP Warning:  Undefined property: stdClass::$area_id in /home3/consultancynepal/public_html/cnbackend/database/actions/places/link_area.php on line 14
+[19-Mar-2023 11:25:31 UTC] PHP Warning:  Undefined property: stdClass::$area_id in /home3/consultancynepal/public_html/cnbackend/database/actions/places/link_area.php on line 14
+[19-Mar-2023 11:25:31 UTC] PHP Warning:  Undefined property: stdClass::$area_id in /home3/consultancynepal/public_html/cnbackend/database/actions/places/link_area.php on line 14
+[19-Mar-2023 11:25:31 UTC] PHP Warning:  Undefined property: stdClass::$area_id in /home3/consultancynepal/public_html/cnbackend/database/actions/places/link_area.php on line 14
+[19-Mar-2023 11:25:31 UTC] PHP Warning:  Undefined property: stdClass::$area_id in /home3/consultancynepal/public_html/cnbackend/database/actions/places/link_area.php on line 14
+[19-Mar-2023 11:25:31 UTC] PHP Warning:  Undefined property: stdClass::$area_id in /home3/consultancynepal/public_html/cnbackend/database/actions/places/link_area.php on line 14
+[19-Mar-2023 11:25:31 UTC] PHP Warning:  Undefined property: stdClass::$area_id in /home3/consultancynepal/public_html/cnbackend/database/actions/places/link_area.php on line 14
+[19-Mar-2023 11:29:16 UTC] PHP Warning:  Undefined property: stdClass::$area_id in /home3/consultancynepal/public_html/cnbackend/database/actions/places/link_area.php on line 14
+[19-Mar-2023 11:29:16 UTC] PHP Warning:  Undefined property: stdClass::$area_id in /home3/consultancynepal/public_html/cnbackend/database/actions/places/link_area.php on line 14
+[19-Mar-2023 11:29:16 UTC] PHP Warning:  Undefined property: stdClass::$area_id in /home3/consultancynepal/public_html/cnbackend/database/actions/places/link_area.php on line 14
+[19-Mar-2023 11:29:16 UTC] PHP Warning:  Undefined property: stdClass::$area_id in /home3/consultancynepal/public_html/cnbackend/database/actions/places/link_area.php on line 14
+[19-Mar-2023 12:09:06 UTC] PHP Warning:  Array to string conversion in /home3/consultancynepal/public_html/cnbackend/database/actions/places/link_area.php on line 99
+[19-Mar-2023 12:19:48 UTC] PHP Warning:  Undefined variable $where in /home3/consultancynepal/public_html/cnbackend/database/actions/places/link_area.php on line 53
+[19-Mar-2023 12:19:48 UTC] PHP Fatal error:  Uncaught PDOException: Not valid criteria in /home3/consultancynepal/public_html/cnbackend/database/database.php:1
+Stack trace:
+#0 /home3/consultancynepal/public_html/cnbackend/database/actions/places/link_area.php(53): Database->Delete('city_area', NULL)
+#1 {main}
+  thrown in /home3/consultancynepal/public_html/cnbackend/database/database.php on line 1
+[19-Mar-2023 12:30:05 UTC] PHP Warning:  require_once(database.php): Failed to open stream: No such file or directory in /home3/consultancynepal/public_html/cnbackend/database/actions/places/link_area.php on line 8
+[19-Mar-2023 12:30:05 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'database.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home3/consultancynepal/public_html/cnbackend/database/actions/places/link_area.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/consultancynepal/public_html/cnbackend/database/actions/places/link_area.php on line 8
+[19-Mar-2023 12:31:07 UTC] PHP Warning:  require_once(database.php): Failed to open stream: No such file or directory in /home3/consultancynepal/public_html/cnbackend/database/actions/places/link_area.php on line 8
+[19-Mar-2023 12:31:07 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'database.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home3/consultancynepal/public_html/cnbackend/database/actions/places/link_area.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/consultancynepal/public_html/cnbackend/database/actions/places/link_area.php on line 8
+[19-Mar-2023 12:31:17 UTC] PHP Warning:  require_once(database.php): Failed to open stream: No such file or directory in /home3/consultancynepal/public_html/cnbackend/database/actions/places/link_area.php on line 8
+[19-Mar-2023 12:31:17 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'database.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home3/consultancynepal/public_html/cnbackend/database/actions/places/link_area.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/consultancynepal/public_html/cnbackend/database/actions/places/link_area.php on line 8
+[19-Mar-2023 12:31:38 UTC] PHP Warning:  require_once(database.php): Failed to open stream: No such file or directory in /home3/consultancynepal/public_html/cnbackend/database/actions/places/link_area.php on line 8
+[19-Mar-2023 12:31:38 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'database.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home3/consultancynepal/public_html/cnbackend/database/actions/places/link_area.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/consultancynepal/public_html/cnbackend/database/actions/places/link_area.php on line 8
+[19-Mar-2023 14:24:49 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/consultancynepal/public_html/cnbackend/database/actions/places/link_area.php on line 4
+[19-Mar-2023 14:24:49 UTC] PHP Warning:  require_once(database.php): Failed to open stream: No such file or directory in /home3/consultancynepal/public_html/cnbackend/database/actions/places/link_area.php on line 8
+[19-Mar-2023 14:24:49 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'database.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home3/consultancynepal/public_html/cnbackend/database/actions/places/link_area.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/consultancynepal/public_html/cnbackend/database/actions/places/link_area.php on line 8
+[19-Mar-2023 14:26:25 UTC] PHP Warning:  require_once(database.php): Failed to open stream: No such file or directory in /home3/consultancynepal/public_html/cnbackend/database/actions/places/link_area.php on line 8
+[19-Mar-2023 14:26:25 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'database.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home3/consultancynepal/public_html/cnbackend/database/actions/places/link_area.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/consultancynepal/public_html/cnbackend/database/actions/places/link_area.php on line 8
+[19-Mar-2023 14:28:42 UTC] PHP Warning:  require_once(database.php): Failed to open stream: No such file or directory in /home3/consultancynepal/public_html/cnbackend/database/actions/places/link_area.php on line 8
+[19-Mar-2023 14:28:42 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'database.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home3/consultancynepal/public_html/cnbackend/database/actions/places/link_area.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/consultancynepal/public_html/cnbackend/database/actions/places/link_area.php on line 8
+[19-Mar-2023 14:30:25 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/consultancynepal/public_html/cnbackend/database/actions/places/link_area.php on line 4
+[19-Mar-2023 14:35:31 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/consultancynepal/public_html/cnbackend/database/actions/places/insert_area.php on line 2
+[06-Apr-2023 07:02:45 UTC] PHP Warning:  Undefined array key "consultancy_list" in /home3/consultancynepal/public_html/cnbackend/database/actions/places/prds.php on line 1
+[06-Apr-2023 07:19:16 UTC] PHP Warning:  Undefined array key "consultancy_list" in /home3/consultancynepal/public_html/cnbackend/database/actions/places/prds.php on line 1
+[06-Apr-2023 07:28:09 UTC] PHP Warning:  Undefined array key "consultancy_list" in /home3/consultancynepal/public_html/cnbackend/database/actions/places/dsct.php on line 4
+[07-Apr-2023 08:51:43 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/consultancynepal/public_html/cnbackend/database/actions/places/insert_ct.php on line 2
+[07-Apr-2023 08:54:41 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/consultancynepal/public_html/cnbackend/database/actions/places/edit_area.php on line 2
+[07-Apr-2023 08:55:09 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/consultancynepal/public_html/cnbackend/database/actions/places/edit_area.php on line 2
+[07-Apr-2023 08:55:58 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/consultancynepal/public_html/cnbackend/database/actions/places/edit_area.php on line 2
+[07-Apr-2023 09:00:13 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/consultancynepal/public_html/cnbackend/database/actions/places/edit_area.php on line 2
+[07-Apr-2023 09:06:46 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/consultancynepal/public_html/cnbackend/database/actions/places/edit_area.php on line 2
+[07-Apr-2023 09:06:59 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/consultancynepal/public_html/cnbackend/database/actions/places/edit_area.php on line 2
+[24-Jul-2023 15:09:35 UTC] PHP Warning:  Undefined array key "consultancy_list" in /home3/consultancynepal/public_html/cnbackend/database/actions/places/prds.php on line 1

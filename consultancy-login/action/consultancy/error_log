@@ -1,0 +1,62 @@
+[16-Feb-2023 04:22:43 UTC] PHP Warning:  Undefined array key "district" in /home3/consultancynepal/public_html/cnbackend/database/actions/consultancy/insert.php on line 1
+[16-Feb-2023 04:22:43 UTC] PHP Warning:  Undefined array key "city" in /home3/consultancynepal/public_html/cnbackend/database/actions/consultancy/insert.php on line 1
+[16-Feb-2023 04:48:15 UTC] PHP Warning:  Undefined array key "district" in /home3/consultancynepal/public_html/cnbackend/database/actions/consultancy/edit.php on line 1
+[16-Feb-2023 04:48:15 UTC] PHP Warning:  Undefined array key "city" in /home3/consultancynepal/public_html/cnbackend/database/actions/consultancy/edit.php on line 1
+[16-Feb-2023 05:49:02 UTC] PHP Warning:  Undefined array key "city" in /home3/consultancynepal/public_html/cnbackend/database/actions/consultancy/insert.php on line 1
+[16-Feb-2023 08:33:42 UTC] PHP Warning:  Undefined array key "city" in /home3/consultancynepal/public_html/cnbackend/database/actions/consultancy/edit.php on line 1
+[02-Mar-2023 07:58:40 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/consultancynepal/public_html/consultancy-login/action/consultancy/edit.php on line 3
+[02-Mar-2023 08:43:13 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/consultancynepal/public_html/consultancy-login/action/consultancy/edit.php on line 3
+[02-Mar-2023 08:43:26 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/consultancynepal/public_html/consultancy-login/action/consultancy/edit.php on line 3
+[02-Mar-2023 08:47:08 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/consultancynepal/public_html/consultancy-login/action/consultancy/editsg.php on line 3
+[02-Mar-2023 08:56:23 UTC] PHP Warning:  require_once(../../database.php): Failed to open stream: No such file or directory in /home3/consultancynepal/public_html/consultancy-login/action/consultancy/deletec.php on line 2
+[02-Mar-2023 08:56:23 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../database.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home3/consultancynepal/public_html/consultancy-login/action/consultancy/deletec.php:2
+Stack trace:
+#0 {main}
+  thrown in /home3/consultancynepal/public_html/consultancy-login/action/consultancy/deletec.php on line 2
+[02-Mar-2023 09:02:21 UTC] PHP Warning:  require_once(../../database.php): Failed to open stream: No such file or directory in /home3/consultancynepal/public_html/consultancy-login/action/consultancy/deletec.php on line 3
+[02-Mar-2023 09:02:21 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../database.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home3/consultancynepal/public_html/consultancy-login/action/consultancy/deletec.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/consultancynepal/public_html/consultancy-login/action/consultancy/deletec.php on line 3
+[02-Mar-2023 09:02:31 UTC] PHP Warning:  require_once(../../database.php): Failed to open stream: No such file or directory in /home3/consultancynepal/public_html/consultancy-login/action/consultancy/deletec.php on line 3
+[02-Mar-2023 09:02:31 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../database.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home3/consultancynepal/public_html/consultancy-login/action/consultancy/deletec.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/consultancynepal/public_html/consultancy-login/action/consultancy/deletec.php on line 3
+[02-Mar-2023 09:03:17 UTC] PHP Warning:  require_once(../../database.php): Failed to open stream: No such file or directory in /home3/consultancynepal/public_html/consultancy-login/action/consultancy/deletec.php on line 2
+[02-Mar-2023 09:03:17 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../database.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home3/consultancynepal/public_html/consultancy-login/action/consultancy/deletec.php:2
+Stack trace:
+#0 {main}
+  thrown in /home3/consultancynepal/public_html/consultancy-login/action/consultancy/deletec.php on line 2
+[02-Mar-2023 09:04:58 UTC] PHP Warning:  require_once(../../database.php): Failed to open stream: No such file or directory in /home3/consultancynepal/public_html/consultancy-login/action/consultancy/deletec.php on line 2
+[02-Mar-2023 09:04:58 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../database.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home3/consultancynepal/public_html/consultancy-login/action/consultancy/deletec.php:2
+Stack trace:
+#0 {main}
+  thrown in /home3/consultancynepal/public_html/consultancy-login/action/consultancy/deletec.php on line 2
+[02-Mar-2023 09:09:46 UTC] PHP Warning:  require_once(../../tables.php): Failed to open stream: No such file or directory in /home3/consultancynepal/public_html/consultancy-login/action/consultancy/deletec.php on line 3
+[02-Mar-2023 09:09:46 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../tables.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home3/consultancynepal/public_html/consultancy-login/action/consultancy/deletec.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/consultancynepal/public_html/consultancy-login/action/consultancy/deletec.php on line 3
+[02-Mar-2023 09:09:58 UTC] PHP Warning:  require_once(../../tables.php): Failed to open stream: No such file or directory in /home3/consultancynepal/public_html/consultancy-login/action/consultancy/deletec.php on line 3
+[02-Mar-2023 09:09:58 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../tables.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home3/consultancynepal/public_html/consultancy-login/action/consultancy/deletec.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/consultancynepal/public_html/consultancy-login/action/consultancy/deletec.php on line 3
+[02-Mar-2023 09:18:19 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/consultancynepal/public_html/consultancy-login/action/consultancy/addcountry.php on line 5
+[16-Mar-2023 04:28:14 UTC] PHP Warning:  unlink(../../../cnbackend/public/): Is a directory in /home3/consultancynepal/public_html/consultancy-login/action/consultancy/deletesg.php on line 13
+[22-Mar-2023 08:08:14 UTC] PHP Warning:  Undefined array key "consultancy_slug" in /home3/consultancynepal/public_html/consultancy-login/action/consultancy/edit.php on line 10
+[22-Mar-2023 08:08:14 UTC] PHP Warning:  Undefined array key "consultancy_id" in /home3/consultancynepal/public_html/consultancy-login/action/consultancy/edit.php on line 12
+[11-Apr-2023 06:37:53 UTC] PHP Warning:  unlink(../../../cnbackend/public/): Is a directory in /home3/consultancynepal/public_html/consultancy-login/action/consultancy/deletesg.php on line 13
+[11-Apr-2023 06:40:57 UTC] PHP Warning:  unlink(../../../cnbackend/public/): Is a directory in /home3/consultancynepal/public_html/consultancy-login/action/consultancy/deletesg.php on line 13
+[11-Apr-2023 06:41:00 UTC] PHP Warning:  unlink(../../../cnbackend/public/): Is a directory in /home3/consultancynepal/public_html/consultancy-login/action/consultancy/deletesg.php on line 13
+[11-Apr-2023 09:17:07 UTC] PHP Warning:  unlink(../../../cnbackend/public/): Is a directory in /home3/consultancynepal/public_html/consultancy-login/action/consultancy/deletesg.php on line 13
+[11-Apr-2023 09:23:49 UTC] PHP Warning:  unlink(../../../cnbackend/public/): Is a directory in /home3/consultancynepal/public_html/consultancy-login/action/consultancy/deletesg.php on line 13
+[11-Apr-2023 09:25:04 UTC] PHP Warning:  unlink(../../../cnbackend/public/): Is a directory in /home3/consultancynepal/public_html/consultancy-login/action/consultancy/deletesg.php on line 13
+[11-Apr-2023 09:25:09 UTC] PHP Warning:  unlink(../../../cnbackend/public/): Is a directory in /home3/consultancynepal/public_html/consultancy-login/action/consultancy/deletesg.php on line 13
+[11-Apr-2023 09:36:50 UTC] PHP Warning:  Undefined variable $id in /home3/consultancynepal/public_html/consultancy-login/action/consultancy/edit.php on line 16
+[11-Apr-2023 10:58:20 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/consultancynepal/public_html/consultancy-login/action/consultancy/edit.php on line 11
+[11-Apr-2023 10:58:35 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/consultancynepal/public_html/consultancy-login/action/consultancy/edit.php on line 11
+[12-Apr-2023 07:38:54 UTC] PHP Warning:  preg_match(): No ending delimiter '^' found in /home3/consultancynepal/public_html/consultancy-login/action/validation.php on line 99
+[12-Apr-2023 07:39:14 UTC] PHP Warning:  preg_match(): No ending delimiter '^' found in /home3/consultancynepal/public_html/consultancy-login/action/validation.php on line 99
+[12-Apr-2023 07:42:28 UTC] PHP Warning:  preg_match(): No ending delimiter '^' found in /home3/consultancynepal/public_html/consultancy-login/action/validation.php on line 99

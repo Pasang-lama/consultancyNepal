@@ -1,0 +1,4 @@
+[07-Jan-2024 09:33:12 UTC] PHP Warning:  unlink(../../../public/uploads/ads/uploads/ads/IMG-659a6b8d5fe2a6.71321291.webp): No such file or directory in /home3/consultancynepal/public_html/cnbackend/database/actions/ads/delete_ads.php on line 5
+[08-Jan-2024 07:40:04 UTC] PHP Warning:  unlink(../../../public/uploads/ads/uploads/ads/IMG-659ba65a0a6c94.55370420.webp): No such file or directory in /home3/consultancynepal/public_html/cnbackend/database/actions/ads/delete_ads.php on line 5
+[08-Jan-2024 09:58:36 UTC] PHP Warning:  unlink(../../../public/uploads/ads/uploads/ads/IMG-659b9ff2452c71.64864295.webp): No such file or directory in /home3/consultancynepal/public_html/cnbackend/database/actions/ads/delete_ads.php on line 5
+[08-Jan-2024 09:58:40 UTC] PHP Warning:  unlink(../../../public/uploads/ads/uploads/ads/IMG-659ba74c741250.33377592.webp): No such file or directory in /home3/consultancynepal/public_html/cnbackend/database/actions/ads/delete_ads.php on line 5

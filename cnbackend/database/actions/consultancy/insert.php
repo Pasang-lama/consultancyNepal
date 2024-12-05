@@ -1,0 +1,145 @@
+<?php
+ session_start();
+ require_once "../../database.php";
+ require_once "../../tables.php";
+ $db = Database::Instance();
+ if ($_SERVER["REQUEST_METHOD"] == "POST") {
+   
+    //  require_once "../../validation.php";
+    //  if(!empty($errors)){
+        
+    //     $_SESSION["errors"]=$errors;
+    //     $_SESSION["old"]=$old;
+    //      echo '<script type="text/javascript">';
+    //      echo 'window.location.href="https://www.consultancynepal.com/cnbackend/addconsultancy";';
+    //      echo "</script>";
+    //     die();
+        
+    // }else{
+    //       unset($_SESSION['errors']);
+    //       unset($_SESSION['old']);
+          
+    // }
+ 
+     $img = $_FILES["consultancyimage"];
+     $image_name = $_FILES["consultancyimage"]["name"];
+     $pre = preg_replace("/[^A-Za-z0-9\-]/", "-", $_POST["consultancy_slug"]);
+     $slug = preg_replace("/-+/", "-", $pre);
+     if (empty($image_name)) {
+         $insert_params = [
+             "consultancy_name" => $_POST["consultancy_name"],
+             "consultancy_slug" => $slug,
+             "Isfeatured"=>$_POST["featured"],
+             "consultancy_email" => $_POST["consultancy_email"],
+             "consultancy_address" => $_POST["consultancy_address"],
+             "area" => $_POST["area"],
+             "Province" => $_POST["province"],
+             "District" => $_POST["district"],
+             "City" => $_POST["city"],
+             "consultancy_phone" => $_POST["consultancy_phone"],
+             "consultancy_mobile" => $_POST["consultancy_mobile"],
+             "consultancy_fax" => $_POST["consultancy_fax"],
+             "consultancy_post_box" => $_POST["consultancy_post_box"],
+             "consultancy_website" => $_POST["consultancy_website"],
+             "consultancy_meta_title" => $_POST["meta_title"],
+             "consultancy_meta_description" =>
+                 $_POST["meta_description"],
+             "consultancy_intro_text" => $_POST["introtextckediter"],
+             "consultancy_description" => $_POST["detailckediter"],
+             "nickname" => $_POST["nickname"],
+             "status" => $_POST["status"],
+             "date" => $_POST["date"],
+             "map" => $_POST["map"],
+             "facebook" => $_POST["facebook"],
+             "instagram" => $_POST["instagram"],
+             "youtube" => $_POST["youtube"],
+             "twitter" => $_POST["twitter"],
+             "tiktok" => $_POST["tiktok"]
+         ];
+     } else {
+         $image = $_FILES["consultancyimage"]["tmp_name"];
+         move_uploaded_file($image, "$image_name");
+         $originalImage = null;
+         $ext = strtolower(pathinfo($image_name, PATHINFO_EXTENSION));
+         if ($ext === "jpg" || $ext === "jpeg") {
+             $originalImage = imagecreatefromjpeg("$image_name");
+         } elseif ($ext === "png") {
+             $originalImage = imagecreatefrompng("$image_name");
+         } elseif ($ext === "gif") {
+             $originalImage = imagecreatefromgif("$image_name");
+         }
+         if ($originalImage === false) {
+             exit();
+         }
+         $originalWidth = imagesx($originalImage);
+         $originalHeight = imagesy($originalImage);
+         $resizedImage = imagecreatetruecolor($originalWidth, $originalHeight);
+         imagecopyresampled(
+             $resizedImage,
+             $originalImage,
+             0,
+             0,
+             0,
+             0,
+             $originalWidth,
+             $originalHeight,
+             $originalWidth,
+             $originalHeight
+         );
+         $new_img = uniqid("IMG-", true);
+         $new_img_name = "{$new_img}.webp";
+         $webp_path = "../../../public/uploads/consultancy/{$new_img_name}";
+         imagewebp($resizedImage, $webp_path, 80);
+         imagedestroy($resizedImage);
+         imagedestroy($originalImage);
+         unlink("{$image_name}");
+         $insert_params = [
+             "consultancy_name" => $_POST["consultancy_name"],
+             "consultancy_slug" => $slug,
+             "consultancy_email" => $_POST["consultancy_email"],
+             "consultancy_address" => $_POST["consultancy_address"],
+             "area" => $_POST["area"],
+             "Province" => $_POST["province"],
+             "District" => $_POST["district"],
+             "City" => $_POST["city"],
+             "consultancy_phone" => $_POST["consultancy_phone"],
+             "consultancy_mobile" => $_POST["consultancy_mobile"],
+             "consultancy_fax" => $_POST["consultancy_fax"],
+             "consultancy_post_box" => $_POST["consultancy_post_box"],
+             "consultancy_website" => $_POST["consultancy_website"],
+             "consultancy_meta_title" => $_POST["consultancy_meta_title"],
+             "consultancy_meta_description" =>
+                 $_POST["consultancy_meta_description"],
+             "consultancy_intro_text" => $_POST["introtextckediter"],
+             "consultancy_description" => $_POST["detailckediter"],
+             "consultancy_logo" => "uploads/consultancy/$new_img_name",
+             "nickname" => $_POST["nickname"],
+             "status" => $_POST["status"],
+             "date" => $_POST["date"],
+              "date" => $_POST["date"],
+             "map" => $_POST["map"],
+                    "facebook" => $_POST["facebook"],
+             "instagram" => $_POST["instagram"],
+             "youtube" => $_POST["youtube"],
+             "twitter" => $_POST["twitter"],
+             "tiktok" => $_POST["tiktok"]
+         ];
+     }
+ 
+     if ($id=$db->Insert($consultancy_table, $insert_params)) {
+         $db->Insert("rank_consultancy",["consultancy_id"=>$id,"rank"=>100000]);
+         $params = ["page_name " => "consultancies", "slug" => $slug];
+         $db->Insert($slugs_table, $params);
+            //  print_r($insert_params);
+            //     die;
+         $_SESSION["message"] = "Consultancy Added Successfully";
+         echo '<script type="text/javascript">';
+         echo 'window.location.href="https://www.consultancynepal.com/cnbackend/addconsultancy";';
+         echo "</script>";
+     } else {
+         $_SESSION["messages"] = "Consultancy Addition failed";
+         header(
+             "location: https://www.consultancynepal.com/cnbackend/addconsultancy"
+         );
+     }
+ }

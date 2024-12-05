@@ -1,0 +1,111 @@
+ <?php include "../pathforedit/header.php";
+include "../pathforedit/aside.php";
+require_once "../../../database/database.php";
+require_once "../../../database/tables.php";
+$db = Database::Instance();
+$id = $_GET["id"];
+$course = $db->CustomQuery("SELECT * FROM course WHERE id='$id'");
+foreach (
+    $course
+    as $data
+): ?>
+<div class="main-panel">
+    <div class="content-wrapper">
+        <div class="page-header">
+            <nav aria-label="breadcrumb">
+                <ol class="breadcrumb">
+                    <li class="breadcrumb-item"><a class="link" href="<?= $base_url ?>addcountry">AddCountry</a></li>
+                    <li class="breadcrumb-item active" aria-current="page"><a class="link"
+                            href="<?= $base_url ?>showcourse">Display Course</a></li>
+                </ol>
+            </nav>
+        </div>
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="card">
+                    <div class="card-body">
+                        <h4 class="card-title">Edit Course</h4>
+                        <form action="<?= $base_url ?>database/actions/course/edit.php" class="cmxform"
+                            enctype="multipart/form-data" id="signupForm" method="post" name="addmember">
+                            <fieldset><input name="id" value="<?= $id ?>" type="number" hidden>
+                                <div class="row">
+                                    <div class="form-group col-6"><label for="firstname">Name</label> <input
+                                            name="name" value="<?= $data->name ?>" class="form-control"
+                                            id="firstname"></div>
+                                            <div class="form-group col-6"><label for="firstname">Slug</label> <input name="slug"
+                                            value="<?= $data->slug ?>" class="form-control" id="firstname">
+                                    </div>
+                                    
+                                </div>
+                                <div class="row">
+                                      <div class="form-group col-6"><label for="firstname">Video</label> <input
+                                            name="video" value="<?= $data->video ?>" class="form-control"
+                                            id="firstname"></div>
+                                    <div class="form-group col-6"><label for="exampleSelectGender">Status</label>
+                                        <select class="form-control" id="exampleSelectGender" name="status">
+                                            <?php if (
+    $data->status == "1"
+) { ?>
+                                            <option value="1" selected>Active</option>
+                                            <option value="0">Inactive</option>
+                                            <?php } else { ?>
+                                            <option value="0" selected>Inctive</option>
+                                            <option value="1">Active</option>
+                                            <?php } ?>
+                                        </select></div>
+                                </div>
+                                <div class="row">
+                                    <div class="form-group col-6"><label for="firstname">Meta Title</label> <input
+                                            name="meta_title" value="<?= $data->meta_title ?>" class="form-control"
+                                            id="firstname"></div>
+                                    <div class="form-group col-6"><label for="firstname">Meta Discription</label>
+                                        <textarea class="form-control" id="meta_description" name="meta_description"
+                                            rows="6"
+                                            value="<?= $data->meta_description ?>"><?= $data->meta_description ?> </textarea>
+                                    </div>
+                                    
+                                    <div class="mt-3 col-lg-4 grid-margin stretch-card">
+                                        <input type="text" name="old_image" value="<?=$data->image?>" hidden>
+                                        <div class="card">
+                                            <div class="card-body">
+                                                <h4 class="card-title d-flex">Image <small
+                                                        class="align-self-end ml-auto"></small></h4>
+                                                <input name="image" class="dropify" type="file">
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-6">
+    <?php
+                                        if($data->image){
+                                        ?>
+    <img src="<?=$base_url?>public/<?=$data->image?>" alt="error" height="200px" width="200px">
+    <?php
+                                        }
+                                        else{
+                                        ?>
+    <img src="<?=$base_url?>public/uploads/noimage/noimage.jpg" alt="error" height="200px" width="200px">
+    <?php
+                                        }
+                                        ?>
+</div>
+
+                                    <div class="form-group col-12">
+                                        <label for="firstname">Intro Text</label> <textarea class="form-control"
+                                            id="summary" name="introtextckediter" rows="6" data-gramm="false"
+                                            data-quillbot-element="IMpuXxEePO7giRtfkYfZ2" style="resize:none"
+                                            wt-ignore-input="true"><?= $data->description?></textarea>
+                                    </div>
+                                </div>
+                                <div class="form-group col-12"><label for="firstname">Details</label> <textarea
+                                        class="form-control" id="summary" name="detailckediter" rows="6"
+                                        data-gramm="false" data-quillbot-element="IMpuXxEePO7giRtfkYfZ2"
+                                        style="resize:none" wt-ignore-input="true"><?= $data->details?></textarea>
+                                </div>
+                    </div>
+                </div><input name="edit_country" value="Submit" class="btn btn-primary" type="submit">
+            </div>
+        </div>
+    </div>
+</div>
+<?php endforeach;
+include "../pathforedit/footer.php"; ?>

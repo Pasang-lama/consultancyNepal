@@ -1,0 +1,1 @@
+<?php require_once "../../database.php";require_once "../../tables.php";$db=Database::Instance();if(isset($_POST['did'])){$did=$_POST['did'];$where="id";$value=[$did];if($db->delete("faqs",$where,$value)){echo "1";}}

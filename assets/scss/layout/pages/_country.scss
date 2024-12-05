@@ -1,0 +1,132 @@
+.content {
+  .con-box {
+    h3 {
+      font-size: 20px;
+      font-weight: 600;
+    }
+    img {
+      height: 180px;
+      border-radius: 5px;
+      -o-object-fit: cover;
+      object-fit: cover;
+    }
+  }
+  .nav-tabs {
+    .nav-link {
+      color: $general-color !important;
+      @include font-lato;
+      font-weight: 600;
+      @media (max-width: 767px) {
+        font-size: 14px;
+        padding: 5px;
+      }
+    }
+  }
+  .single-country-tabs {
+    padding: 20px;
+    border: 1px solid #dee2e6;
+    border-top: none;
+    border-radius: 0px 0px 5px 5px;
+    .table-wrapper {
+      table {
+        tbody {
+          tr {
+            &:nth-child(even) {
+              background-color: #f2f2f2;
+            }
+          }
+        }
+      }
+    }
+    .contact-us-form {
+      box-shadow:none !important;
+      border-radius: 0px !important;
+      padding: 0 !important;
+    }
+  }
+}
+
+.consultancy-slider {
+  .consultancy-slider-item {
+    figure {
+      height: 120px;
+      margin: 10px !important;
+      padding: 10px;
+      background-color: white;
+      border: 1px solid #d5d5d5;
+      border-radius: 5px;
+      @media (max-width: 767px) {
+        height: 100px;
+      }
+      @media (max-width: 480px) {
+        height: 80px;
+      }
+      a {
+        display: block;
+        height: 100%;
+        width: 100%;
+        img {
+          object-fit: scale-down !important;
+          transition: all 400ms linear;
+        }
+      }
+    }
+    .consultancy-name {
+      @include font-lato;
+      font-weight: 600;
+      color: $general-color;
+      text-align: center;
+      @media (max-width: 767px) {
+        font-size: 14px;
+        line-height: 18px;
+      }
+    }
+    &:hover {
+      img {
+        transform: scale(1.2) rotate(5deg);
+      }
+      .consultancy-name {
+        color: $primary-color;
+      }
+    }
+  }
+}
+
+.custom-card {
+  position: relative;
+  overflow: hidden;
+  border-radius: 3px;
+  figure {
+    height: 180px;
+    width: 100%;
+  }
+  &::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, #000000 97.92%);
+    z-index: 1;
+    pointer-events: none;
+  }
+  .title {
+    @include font-lato;
+    font-weight: 600;
+    font-size: 18px !important;
+    line-height: 26px !important;
+    text-transform: capitalize;
+    color: white;
+    position: absolute;
+    bottom: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+    text-align: center;
+    z-index: 1;
+    padding: 0px 10px;
+    &:hover {
+      color: $primary-color;
+    }
+  }
+}

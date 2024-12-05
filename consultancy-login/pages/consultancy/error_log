@@ -1,0 +1,10 @@
+[22-Feb-2023 09:53:42 UTC] PHP Parse error:  syntax error, unexpected variable "$cid", expecting ")" in /home3/consultancynepal/public_html/cnbackend/templates/allpages/consultancy/countrylist.php on line 14
+[22-Feb-2023 09:53:56 UTC] PHP Parse error:  syntax error, unexpected variable "$cid", expecting ")" in /home3/consultancynepal/public_html/cnbackend/templates/allpages/consultancy/countrylist.php on line 14
+[22-Feb-2023 09:54:25 UTC] PHP Parse error:  syntax error, unexpected variable "$cid", expecting ")" in /home3/consultancynepal/public_html/cnbackend/templates/allpages/consultancy/countrylist.php on line 14
+[22-Feb-2023 09:55:24 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home3/consultancynepal/public_html/cnbackend/templates/allpages/consultancy/countrylist.php on line 16
+[22-Feb-2023 09:55:55 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home3/consultancynepal/public_html/cnbackend/templates/allpages/consultancy/countrylist.php on line 16
+[22-Feb-2023 09:55:57 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home3/consultancynepal/public_html/cnbackend/templates/allpages/consultancy/countrylist.php on line 16
+[22-Feb-2023 09:58:02 UTC] PHP Fatal error:  Uncaught Error: Object of class stdClass could not be converted to string in /home3/consultancynepal/public_html/cnbackend/templates/allpages/consultancy/countrylist.php:22
+Stack trace:
+#0 {main}
+  thrown in /home3/consultancynepal/public_html/cnbackend/templates/allpages/consultancy/countrylist.php on line 22

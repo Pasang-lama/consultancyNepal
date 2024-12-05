@@ -1,0 +1,20 @@
+[07-Apr-2023 09:10:13 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/pages/delete.php on line 1
+[12-Jan-2024 09:29:30 UTC] PHP Warning:  Undefined array key 0 in /home3/consultancynepal/public_html/cnbackend/database/actions/pages/edit.php on line 12
+[12-Jan-2024 09:29:30 UTC] PHP Warning:  Attempt to read property "slug" on null in /home3/consultancynepal/public_html/cnbackend/database/actions/pages/edit.php on line 12
+[12-Jan-2024 09:54:39 UTC] PHP Fatal error:  Uncaught PDOException: Criteria not match in /home3/consultancynepal/public_html/cnbackend/database/database.php:18
+Stack trace:
+#0 /home3/consultancynepal/public_html/cnbackend/database/actions/pages/edit.php(67): Database->Update(NULL, Array, 'id', Array)
+#1 {main}
+  thrown in /home3/consultancynepal/public_html/cnbackend/database/database.php on line 18
+[12-Jan-2024 10:06:49 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/pages/delete.php on line 14
+[12-Jan-2024 10:47:10 UTC] PHP Warning:  Undefined array key 0 in /home3/consultancynepal/public_html/cnbackend/database/actions/pages/edit.php on line 247
+[12-Jan-2024 10:47:10 UTC] PHP Warning:  Attempt to read property "slug" on null in /home3/consultancynepal/public_html/cnbackend/database/actions/pages/edit.php on line 247
+[14-Jan-2024 06:10:51 UTC] PHP Fatal error:  Uncaught TypeError: PDOStatement::execute(): Argument #1 ($params) must be of type ?array, string given in /home3/consultancynepal/public_html/cnbackend/database/database.php:94
+Stack trace:
+#0 /home3/consultancynepal/public_html/cnbackend/database/database.php(94): PDOStatement->execute('6')
+#1 /home3/consultancynepal/public_html/cnbackend/database/actions/pages/edit.php(96): Database->Delete('test-ta', 'id', '6')
+#2 {main}
+  thrown in /home3/consultancynepal/public_html/cnbackend/database/database.php on line 94
+[14-Jan-2024 06:14:15 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/pages/delete.php on line 14
+[14-Jan-2024 06:45:10 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/pages/delete.php on line 14
+[14-Jan-2024 08:01:50 UTC] PHP Warning:  unlink(../../../public/): Is a directory in /home3/consultancynepal/public_html/cnbackend/database/actions/pages/delete.php on line 14

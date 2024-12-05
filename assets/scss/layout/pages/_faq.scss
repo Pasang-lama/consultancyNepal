@@ -1,0 +1,56 @@
+.accordion {
+    .accordion-item {
+      margin-bottom: 10px;
+      border: 0;
+      .accordion-header {
+        border-radius: 10px;
+        .accordion-button {
+          background-color: #eef6ff;
+          @include font-lato;
+          font-weight: 600;
+          &:focus {
+            box-shadow: none;
+          }
+          &:not(.collapsed) {
+            color: $general-color !important;
+            background-color: #e7f1ff;
+            box-shadow: none !important;
+          }
+        }
+      }
+      .accordion-body {
+        border: 1px solid #f2f2f2;
+        border-top: none;
+        border-radius: 0px 0px 10px 10px;
+      }
+    }
+  }
+  .realted-faq{
+    ul{
+        li{
+            @include font-lato;
+            padding-bottom: 10px;
+            font-weight: 600;
+            color: $general-color;
+            @media (max-width: 480px) {
+              font-size: 14px;
+            }
+            a{
+              @include d-flex;
+              align-items: flex-start;
+              gap: 10px;
+            }
+            &:last-child{
+                padding-bottom: 0px;
+            }
+            i{
+                font-size: 12px;
+                color: $primary-color;
+                line-height: 24px;
+            }
+            &:hover{
+                color: $primary-color;
+            }
+        }
+    }
+  }
